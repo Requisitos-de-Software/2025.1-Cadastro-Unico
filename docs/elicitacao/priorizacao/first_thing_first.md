@@ -2,12 +2,12 @@
 
 ## Funções dos autores
 
-| Nome                 | Função                                                            | 
-|----------------------|----------------------------------------------------------------   |
-|[Gabriel Flores](https://github.com/Gabrielfcoelho)|Priorização dos requisitos| 
-|[João Pedro Costa](https://github.com/johnaopedro)|Criação do documento; correções gerais| 
-|[Julia Gabriela](https://github.com/JuliaGabP)|Revisão geral| 
-|[Ryan Salles](https://github.com/RA-Salles)|Revisão geral| 
+| Nome                 | Função                                                                              | 
+|----------------------|----------------------------------------------------------------                     |
+|[Gabriel Flores](https://github.com/Gabrielfcoelho) | Priorização dos requisitos                            | 
+|[João Pedro Costa](https://github.com/johnaopedro)  | Criação do documento; correções gerais, Revisão geral | 
+|[Julia Gabriela](https://github.com/JuliaGabP)      | Revisão geral                                         | 
+|[Ryan Salles](https://github.com/RA-Salles)         | Revisão geral, ajustes e manutenção                   | 
 <center>
     Autor(es): 
     <a href="https://github.com/JuliaGabP" target="_blank">Julia Gabriela</a>

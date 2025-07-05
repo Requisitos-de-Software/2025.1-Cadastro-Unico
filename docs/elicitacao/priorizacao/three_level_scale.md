@@ -2,11 +2,11 @@
 
 ## Funções dos autores
 
-| Nome                 | Função                                                                           | 
-|----------------------|----------------------------------------------------------------                  |
-|[João Pedro Costa](https://github.com/johnaopedro)| Criação do documento, ajustes e validação            | 
-|[Julia Gabriela](https://github.com/JuliaGabP)    | Revisão geral.                                       | 
-|[Ryan Salles](https://github.com/RA-Salles)       | Criação do documento, ajustes, manutenção e evolução | 
+| Nome                                              | Função                                                                             | 
+|----------------------                             |----------------------------------------------------------------                    |
+|[João Pedro Costa](https://github.com/johnaopedro) | Criação do documento, ajustes e validação, Revisão Geral                           |
+|[Julia Gabriela](https://github.com/JuliaGabP)     | Revisão geral.                                                                     | 
+|[Ryan Salles](https://github.com/RA-Salles)        | Criação do documento, ajustes, manutenção e evolução pós priorização com o usuário | 
 <center>
     Autor(es): 
     <a href="https://github.com/JuliaGabP" target="_blank">Julia Gabriela</a>

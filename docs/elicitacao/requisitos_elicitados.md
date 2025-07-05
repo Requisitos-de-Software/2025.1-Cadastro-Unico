@@ -4,7 +4,7 @@
 
 |  Nome                                              | Função                                                                  | 
 |----------------------------------------------------|------------------------------------------------------------------------ |
-| [João Pedro Costa](https://github.com/johnaopedro) | Desenvolvimento de tabelas, ajustes e manutenção                        | 
+| [João Pedro Costa](https://github.com/johnaopedro) | Desenvolvimento de tabelas, ajustes e manutenção. Revisão Geral         | 
 | [Julia Gabriela](https://github.com/JuliaGabP)     | Revisora Geral.                                                         | 
 | [Ryan Salles](https://github.com/RA-Salles)        | Criação da página, desenvolvimento de tabelas, ajustes e manutenção     | 
 <center>

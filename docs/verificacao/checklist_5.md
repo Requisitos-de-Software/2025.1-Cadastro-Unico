@@ -10,7 +10,11 @@ Este documento apresenta uma lista de verificação criada para o [Grupo 4](http
 
 | Nome                                              | Função                                                                  | 
 |---------------------------------------------------|-------------------------------------------------------------------------|
-| [Ryan Salles](https://github.com/RA-Salles)       | Criação do documento=, inserção de informações base, manutenção         |
+| [Ryan Salles](https://github.com/RA-Salles)       | Criação do documento, inserção de informações base, manutenção          |
+| [João Pedro](https://github.com/johnaopedro)      | Revisão Geral, Itens de Desenvolvimento do Projeto                      |
+| [Amanda Cruz](https://github.com/mandicrz)        | Itens de Desenvolvimento do Projeto                                     |
+| [Julia Gabriela]
+
 
 <center>
     Autor(es): 
@@ -60,14 +64,14 @@ As Tabelas 2 e 3 apresentam checklists para os elementos de desenvolvimento do p
 | **ID** |                       **Item**                                                         |                                        **Referência**                                         |
 | :----: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
 | CD01	 | O objetivo do protótipo está claramente definido                                       | PRESSMAN, Roger S.; MAXIM, Bruce R. Software Engineering: A practitioner's approach. Nova Iórque: McGraw-Hill Education, 2020. |   
-| CD02	 | O protótipo apresenta a fonte com base em requisitos funcionais e não funcionais       | IEEE 830 – Especificação de Requisitos de Software                                            | 
-| CD03	 | O protótipo foi construído com base nas necessidades e perfil dos usuários finais?     |	SOMMERVILLE, Ian. Engenharia de Software. 9. ed.                         | 
-| CD04	 | O nível de fidelidade do protótipo (baixa, média, alta) é adequado à fase do projeto?  |	Design Thinking – Ciclos de prototipagem: papel, wireframe, mockup, alta fidelidade	          |  
-| CD05   | O protótipo foi validado com usuários, clientes ou stakeholders?                       | SOMMERVILLE, Ian. Engenharia de Software. 9. ed.| 
+| CD02	 | O protótipo apresenta a fonte com base em requisitos funcionais e não funcionais       | IEEE 830 – Especificação de Requisitos de Software                                                                             | 
+| CD03	 | O protótipo foi construído com base nas necessidades e perfil dos usuários finais?     |	SOMMERVILLE, Ian. Engenharia de Software. 9. ed.                                                                               | 
+| CD04	 | O nível de fidelidade do protótipo (baixa, média, alta) é adequado à fase do projeto?  |	Design Thinking – Ciclos de prototipagem: papel, wireframe, mockup, alta fidelidade	                                           |  
+| CD05   | O protótipo foi validado com usuários, clientes ou stakeholders?                       | SOMMERVILLE, Ian. Engenharia de Software. 9. ed.                                                                               | 
 
 <center>
     Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
+    <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
 </center>
 
 ---
@@ -90,10 +94,7 @@ As referências das Tabelas 2 e 3 tiveram como referência as Figuras 1 a 4.
 
 ## Histórico de Versão
 
-| Versão |    Data    |    Descrição                                            |         Autor                                      |       Revisor      |
-| :----: | :--------: | :--------------:                                        | :-------------------:                              | :----------------: |
-| 1.0    | 01/06/2025 | Criando a pagina                                        | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        | 
-| 1.1    | 01/06/2025 | Adicionando lista de verificação de historia de usuário | [João Pedro Costa](https://github.com/johnaopedro) | [Amanda Cruz](https://github.com/mandicrz)         | 
-| 1.2    | 01/06/2025 | Adicionando lista de verificação do professor           | [João Pedro Costa](https://github.com/johnaopedro) | [Amanda Cruz](https://github.com/mandicrz)         |
-| 1.3    | 01/06/2025 |Adicionando itens de verificação de Backlog              | [Gabriel Flores](https://github.com/Gabrielfcoelho)| [Ryan Salles](https://github.com/RA-Salles)        |
-| 1.4    | 01/06/2025 |Adicionando itens de verificação de NFR Framework        | [Amanda Cruz](https://github.com/mandicrz)         | [João Pedro Costa](https://github.com/johnaopedro) |
+| Versão |    Data    |    Descrição                                            |         Autor                                      |       Revisor                                      |
+| :----: | :--------: | :--------------:                                        | :-------------------:                              | :----------------:                                 |
+| 1.0    | 01/06/2025 | Criando a pagina                                        | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+| 3.0    | 05/07/2025 | Adaptação do artefato para a entrega 5                  | [Ryan Salles](https://github.com/RA-Salles)        | [João Pedro Costa](https://github.com/johnaopedro) |

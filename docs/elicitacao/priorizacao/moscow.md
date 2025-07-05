@@ -4,7 +4,7 @@
 
 | Nome                                                | Função                                                            | 
 |----------------------                               |-------------------------------------------------------------------|
-| [João Pedro Costa](https://github.com/johnaopedro)  | Ajustes e suporte técnico para validação                          | 
+| [João Pedro Costa](https://github.com/johnaopedro)  | Ajustes e suporte técnico para validação, Revisão Geral           | 
 | [Julia Gabriela](https://github.com/JuliaGabP)      | Revisão geral                                                     | 
 | [Ryan Salles](https://github.com/RA-Salles)         | Criação do documento, manutenção e validação                      | 
 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | Suporte técnico para validação                                    |
