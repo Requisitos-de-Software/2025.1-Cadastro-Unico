@@ -92,6 +92,8 @@ nav:
     - Apresentação IV: apresentacoes/apresentacao4.md
     - Apresentação V: apresentacoes/apresentacao5.md
     - Apresentação VI: apresentacoes/apresentacao6.md
+  - Entrega Final:
+    - Videos: entrega_final/videos.md
 theme:
   logo: assets/LogoCadUn.png
   name: material
