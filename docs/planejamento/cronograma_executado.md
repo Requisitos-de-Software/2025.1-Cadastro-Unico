@@ -2,12 +2,14 @@
 
 ## Funções dos autores
 
-| Nome                 | Função                                                            | 
-|----------------------|----------------------------------------------------------------   |
-|[Amanda Cruz](https://github.com/mandicrz)| Padronizar historico de versão | 
-|[João Pedro Costa](https://github.com/johnaopedro) | Desenvolvimento dos cronogramas 3 e 4; Correção pelo metodo de inspeção de Fagan | 
-|[Gabriel Flores](https://github.com/Gabrielfcoelho) | Desenvolvimento do cronograma 2 | 
-|[Julia Gabriela](https://github.com/JuliaGabP)| Criação do documento; Desenvolvimento do cronograma 1, 5 e 6 | 
+| Nome                                               | Função                                                                                          | 
+|----------------------                              |----------------------------------------------------------------                                 |
+|[Amanda Cruz](https://github.com/mandicrz)          | Padronizar historico de versão                                                                  | 
+|[João Pedro Costa](https://github.com/johnaopedro)  | Desenvolvimento dos cronogramas 3 e 4; Correção pelo metodo de inspeção de Fagan, Revisor Geral | 
+|[Gabriel Flores](https://github.com/Gabrielfcoelho) | Desenvolvimento do cronograma 2                                                                 | 
+|[Julia Gabriela](https://github.com/JuliaGabP)      | Criação do documento; Desenvolvimento do cronograma 1, 5 e 6                                    | 
+|[Ryan Salles](https://github.com/RA-Salles          | Desenvolvimento do cronograma 7                                                                 | 
+
 <center>
     Autor(es): 
     <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
@@ -112,7 +114,7 @@ Abaixo cronograma em formato de tabela para uma maior facilidade de visualizaç�
 </center>
 
 ## Entrega 5 - Análise de Requisitos
-## Parte 1 - Verificação e Validação 1
+
 Abaixo cronograma em formato de tabela para uma maior facilidade de visualização.
 <center>Tabela 05: Cronograma para as atividades da entrega 5</center>
 
@@ -147,6 +149,34 @@ Abaixo cronograma em formato de tabela para uma maior facilidade de visualizaç�
  Autor(a): <a href="https://github.com/JuliaGabP" target = "_blank">Julia Gabriela</a></h6>
 </center>
 
+## Entrega 7 - Entrega Final
+
+Apesar de não estar no cronograma planejado inicial, a entrega final elaborada
+pelo grupo 4 apresentou as seguintes atividades. 
+
+| Atividade                                               | Período de desenvolvimento 	| Responsável               	                       | Revisão                  	| Revisor         	                                  |
+|-----------------------------------------------          |----------------------------	|---------------------------	                       |--------------------------	|-----------------	                                  |
+| Conserto de defeitos em documentos de entregas passadas | Ínicio: 23/06 Fim: 06/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 23/06 Fim: 06/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
+| Planejameto de atividades para a entrega final          | Ínicio: 23/06 Fim: 30/06    | Ryan                                                 |  Ínicio: 23/06 Fim: 06/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
+| Documento de Aplicativo Selecionado                     | Ínicio: 03/07 Fim: 05/07    | João Pedro                                           |  Ínicio: 06/07 Fim: 07/07  | Amanda                                              |
+| Documento de Cronograma                                 | Ínicio: 03/07 Fim: 05/07    | Ryan                                                 |  Ínicio: 06/07 Fim: 07/07  | João Igor                                           |
+| Documento de Execução do Projeto                        | Ínicio: 03/07 Fim: 05/07    | Gabriel                                              |  Ínicio: 06/07 Fim: 07/07  | Julia                                               |
+| Documento de Resultados                                 | Ínicio: 03/07 Fim: 05/07    | Julia                                                |  Ínicio: 06/07 Fim: 07/07  | Gabriel                                             |
+| Documento de Ferramentas Utilizadas                     | Ínicio: 03/07 Fim: 05/07    | Amanda                                               |  Ínicio: 06/07 Fim: 07/07  | Joao Pedro                                          |
+| Documento de Técnicas                                   | Ínicio: 03/07 Fim: 05/07    | João Igor                                            |  Ínicio: 06/07 Fim: 07/07  | Ryan                                                |
+| Documento de Artefatos                                  | Ínicio: 03/07 Fim: 05/07    | Ryan                                                 |  Ínicio: 06/07 Fim: 07/07  | Gabriel                                             |
+| Documento de Verificação e Validação                    | Ínicio: 03/07 Fim: 05/07    | Gabriel                                              |  Ínicio: 06/07 Fim: 07/07  | Ryan                                                |
+| Documento de Vídeos                                     | Ínicio: 03/07 Fim: 05/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 06/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
+| Documento de Facilidades e Dificuldades                 | Ínicio: 03/07 Fim: 05/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 06/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
+| Apresentação da Entrega Final                           | Ínicio: 23/06 Fim: 06/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 07/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
+
+
+
+
+
+
+
+
 ## Bibliografia
 > SALES, A. B. Template Tabela Cronograma, Cronograma Exemplo. Aprender3. Disponível em: <https://aprender3.unb.br/pluginfile.php/3095992/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>. Acesso em: 13 abr. 2025.
 
@@ -160,13 +190,14 @@ Abaixo cronograma em formato de tabela para uma maior facilidade de visualizaç�
 
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição       |       Autor      |     Revisor     |
-| :-----:| :--------: | :------------------: | :-------------------: | :-----------------: |
-|  1.0   | 13/04/2025 | Cronograma executado | [Julia Gabriela](https://github.com/JuliaGabP) | [João Pedro](https://github.com/johnaopedro) |
-|  1.1   | 13/04/2025 | Correção histórico de versão | [Julia Gabriela](https://github.com/JuliaGabP) | [Ryan Salles](https://github.com/RA-Salles) |
-| 1.2    | 16/04/2025 | Padronização do histórico de versão | [Amanda Cruz](https://github.com/mandicrz) | [Ryan Salles](https://github.com/RA-Salles) |
-| 1.3 | 04/05/2025 | Cronograma executado da entrega 2 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [Julia Gabriela](https://github.com/JuliaGabP) |
-| 1.4 | 18/05/2025 | Cronograma executado da entrega 3 | [João Pedro](https://github.com/johnaopedro)  | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
-| 1.5 | 01/06/2025 | Cronograma executado da entrega 4 | [João Pedro](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles) |
-| 1.6 | 22/06/2025 | Correção pelo metodo de inspeção de Fagan | [João Pedro](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles) |
-| 1.7 | 25/06/2025 | Cronograma executado das entregas 5 e 6 | [Julia Gabriela](https://github.com/JuliaGabP) | [João Pedro](https://github.com/johnaopedro) |
+| Versão |    Data    |      Descrição                            |       Autor                                         |     Revisor                                         |
+| :-----:| :--------: | :------------------:                      | :-------------------:                               | :-----------------:                                 |
+| 1.0    | 13/04/2025 | Cronograma executado                      | [Julia Gabriela](https://github.com/JuliaGabP)      | [João Pedro](https://github.com/johnaopedro)        |
+| 1.1    | 13/04/2025 | Correção histórico de versão              | [Julia Gabriela](https://github.com/JuliaGabP)      | [Ryan Salles](https://github.com/RA-Salles)         |
+| 1.2    | 16/04/2025 | Padronização do histórico de versão       | [Amanda Cruz](https://github.com/mandicrz)          | [Ryan Salles](https://github.com/RA-Salles)         |
+| 1.3    | 04/05/2025 | Cronograma executado da entrega 2         | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [Julia Gabriela](https://github.com/JuliaGabP)      |
+| 1.4    | 18/05/2025 | Cronograma executado da entrega 3         | [João Pedro](https://github.com/johnaopedro)        | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
+| 1.5    | 01/06/2025 | Cronograma executado da entrega 4         | [João Pedro](https://github.com/johnaopedro)        | [Ryan Salles](https://github.com/RA-Salles)         |
+| 1.6    | 22/06/2025 | Correção pelo metodo de inspeção de Fagan | [João Pedro](https://github.com/johnaopedro)        | [Ryan Salles](https://github.com/RA-Salles)         |
+| 1.7    | 25/06/2025 | Cronograma executado das entregas 5 e 6   | [Julia Gabriela](https://github.com/JuliaGabP)      | [João Pedro](https://github.com/johnaopedro)        |
+| 1.8    | 05/07/2025 | Cronograma executado da entrega 7         | [Ryan Salles](https://github.com/RA-Salles)         | [João Pedro](https://github.com/johnaopedro)        |

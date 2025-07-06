@@ -161,5 +161,5 @@ Abaixo cronograma em formato de tabela para uma maior facilidade de visualizaç�
 |  1.3   | 16/04/2025 | Padronização do histórico de versão | [Amanda Cruz](https://github.com/mandicrz) | [Ryan Augusto](https://github.com/RA-Salles) |
 |  1.4   | 18/04/2025 | Correções pós entrega, e complementação do cronograma | [Julia Gabriela](https://github.com/JuliaGabP) | [Ryan](https://github.com/RA-Salles) [João Pedro](https://github.com/johnaopedro)|
 |  1.5   | 18/04/2025 | Correção de tabela e área de referências | [João Pedro](https://github.com/johnaopedro) | [Ryan](https://github.com/RA-Salles)|
-| 1.6    | 27/04/2025 | Correção da atividade da entrega 2 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [Julia Gabriela](https://github.com/JuliaGabP) |
-| 1.7    | 25/06/2025 | Adição tabela de funções |[Julia Gabriela](https://github.com/JuliaGabP) | [João Pedro](https://github.com/johnaopedro) |
+|  1.6    | 27/04/2025 | Correção da atividade da entrega 2 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [Julia Gabriela](https://github.com/JuliaGabP) |
+|  1.7    | 25/06/2025 | Adição tabela de funções |[Julia Gabriela](https://github.com/JuliaGabP) | [João Pedro](https://github.com/johnaopedro) |
