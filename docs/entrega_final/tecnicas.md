@@ -166,6 +166,8 @@ São técnicas empregadas para a modelagem dos requisitos elicitados anteriormen
 
 ## Técnicas de Modelagem Funcionais/Interativas
 
+### Prototipagem
+
 São técnicas empregadas com o obejtivo de mostrar ao cliente um protótipo funcional dos requisitos elicitados, com a intenção de guiar o desenvolvimento.
 
 | Responsáveis                                 | Função                   |Revisor         |
@@ -177,6 +179,20 @@ São técnicas empregadas com o obejtivo de mostrar ao cliente um protótipo fun
 | [Julia Gabriela](https://github.com/JuliaGabP)| Criação de Protótipos      |[Amanda Cruz](https://github.com/mandicrz)|
 | [João Pedro Costa](https://github.com/johnaopedro)| Criação de Protótipos   |[Ryan Salles](https://github.com/RA-Salles)|
 
+## Técnicas de Validação
+
+São técnicas que tem como objetivo obter a opinião do cliente em relação aos protótipos criados, averiguando se os requistos estão de acordo com oque foi pensado pelas partes interessadas.
+
+### Validação
+
+| Responsáveis                                 | Função                   |Secretário/Observador(Revisor)        |
+| :------------------------------------------: | :----------------------: |:--------------:|
+| [João Igor](https://github.com/JoaoPC10)     | Entrevistador/Desenvolvedor |[Gabriel Flores](https://github.com/Gabrielfcoelho)|
+| [Gabriel Flores](https://github.com/Gabrielfcoelho)| Entrevistador/Desenvolvedor|[João Igor](https://github.com/JoaoPC10)|
+| [Amanda Cruz](https://github.com/mandicrz)   | Entrevistador/Desenvolvedor|[Julia Gabriela](https://github.com/JuliaGabP)|
+| [Ryan Salles](https://github.com/RA-Salles)  | Entrevistador/Desenvolvedor|[João Pedro Costa](https://github.com/johnaopedro)|
+| [Julia Gabriela](https://github.com/JuliaGabP)| Entrevistador/Desenvolvedor |[Amanda Cruz](https://github.com/mandicrz)|
+| [João Pedro Costa](https://github.com/johnaopedro)| Entrevistador/Desenvolvedor |[Ryan Salles](https://github.com/RA-Salles)|
 
 ## Técnicas de Inspeção
 
