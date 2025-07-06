@@ -4,16 +4,22 @@
 
 | Nome | Função |
 |------|--------|
-|[João Pedro](https://github.com/johnaopedro)| Criação do documento, adição do conteúdo |
+|[João Pedro](https://github.com/johnaopedro)| Criação do documento; Adição do conteúdo da página |
 |[Amanda Cruz](https://github.com/mandicrz)| Revisão geral do documento |
 <center>
     Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro</a><br>
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a><br>
 </center>
 
 ## Introdução
 
-No início do processo da disciplina, os integrantes do grupo apresentaram possíveis candidatos de aplicativos para trabalharmos e seus respectivos argumentos para escolha. Posteriormente, foi feita uma revisão em que cada aplicativo passava por alguns critérios com o objetivo de se chegar a um consenso. Esse documento busca sumarizar as motivações dessa escolha, tendo como foco o aplicativo Cadastro Único.
+No início do processo da disciplina, os integrantes do grupo apresentaram possíveis candidatos de aplicativos para trabalharmos e seus respectivos argumentos para escolha. Inicialmente, o grupo selecionou o aplicativo Carteira de Trabalho Digital. Contudo, após uma revisão mais criteriosa, foi constatado que ele não atendia plenamente a todos os critérios definidos, especialmente quanto à disponibilidade de informações e facilidade de contato com o público-alvo. Por esse motivo, optou-se por trocar para o aplicativo Cadastro Único, que se mostrou mais aderente aos objetivos do projeto. 
+
+Este documento busca sumarizar as motivações dessa escolha, tendo como foco o aplicativo Cadastro Único.
+
+## Aplicativo inicialmente selecionado
+
+Antes da escolha definitiva pelo aplicativo Cadastro Único, o grupo havia selecionado inicialmente o aplicativo Carteira de Trabalho Digital. No entanto, após uma análise mais detalhada dos critérios estabelecidos para a escolha do aplicativo, foi constatado que o Carteira de Trabalho Digital não atendia plenamente a todos os requisitos definidos, especialmente em relação à disponibilidade de informações e facilidade de contato com o público-alvo. Por esse motivo, optou-se por realizar a troca para o Cadastro Único, que se mostrou mais aderente aos objetivos e necessidades do projeto.
 
 ## Critérios para escolha
 
@@ -69,3 +75,4 @@ A escolha do aplicativo para trabalho no projeto é uma etapa imprescindível na
 | 1.0 | 04/07/2024 | Criação do documento e desenvolvimento da pagina | [João Pedro Costa](https://github.com/johnaopedro) |[Amanda Cruz](https://github.com/mandicrz)|
 | 1.1 | 04/07/2024 | Adição da tabela de funções dos autores e conclusão | [João Pedro Costa](https://github.com/johnaopedro) |[Amanda Cruz](https://github.com/mandicrz)|
 | 1.2 | 04/07/2024 | Adição da seção sobre Rich Picture | [João Pedro Costa](https://github.com/johnaopedro) |[Amanda Cruz](https://github.com/mandicrz)|
+| 1.3 | 04/07/2024 | Adição da seção sobre aplicativo inicialmente selecionado | [João Pedro Costa](https://github.com/johnaopedro) |[Amanda Cruz](https://github.com/mandicrz)|
