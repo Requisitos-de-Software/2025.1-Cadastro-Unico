@@ -7,7 +7,7 @@
 |[Gabriel Flores](https://github.com/Gabrielfcoelho)         | Revisão geral| 
 <center>
     Autor(es): 
-    <a href="https://github.com/Gabrielfcoelho" target="_blank">Gabriel Flores</a>
+    <a href="https://github.com/JoaoPC10" target="_blank">JOão Igor</a>
 </center>
 
 ## Introdução
@@ -53,7 +53,7 @@ Essas telas foram projetadas para garantir uma navegação intuitiva e facilitar
 
 ## Protótipo Atualizar dados cadastrais
 **Autor:**  [João Igor](https://github.com/JoaoPC10)
-**Rastreabilidade:**   [RF20](../../elicitacao/requisitos_elicitados.md) 
+**Rastreabilidade:**   [RF20](../elicitacao/requisitos_elicitados.md) 
 **Ferramentas:**  Figma e Canva
 **Tipo:**   Alta Fidelidade 
 **Antes da prototipagem**
@@ -68,7 +68,7 @@ Essas telas foram projetadas para garantir uma navegação intuitiva e facilitar
 
 ## Protótipo Filtragem de benefícios
 **Autor:** [João Igor](https://github.com/JoaoPC10)
-**Rastreabilidade:**  [RF23](../../elicitacao/requisitos_elicitados.md) 
+**Rastreabilidade:**  [RF23](../elicitacao/requisitos_elicitados.md) 
 **Ferramentas:**  Figma e Canva
 **Tipo:**  Alta fidelidade  
 **Antes da prototipagem** 
