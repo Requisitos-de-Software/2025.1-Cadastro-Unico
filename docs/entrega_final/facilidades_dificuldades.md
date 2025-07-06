@@ -29,6 +29,9 @@ Abaixo serão descritas as vivências de cada integrantes do grupo em relação 
 
 # **João Igor**
 ## *Facilidades*
+
+Ao longo do projeto houve diversos desafios, mas acredito que a maior facilidade que tive foi a comunicação com alguns membros do grupo e a adaptação a edição de textos ao estilo MarkDown.
+
 ## *Dificuldades*
 
 # **João Pedro**
