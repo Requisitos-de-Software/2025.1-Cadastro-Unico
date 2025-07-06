@@ -432,7 +432,7 @@ Uma reunião presencial foi realizada para fins de validação dos casos de uso 
 | Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
 | Data    | 05/06/2025                                               |
 | Horário | 10:30                                                    |
-| Duração | Cerca de 30 minutos                                      |
+| Duração | Cerca de 5 minutos                                      |
 <center>
     Autor(es): 
     <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
@@ -458,6 +458,9 @@ Abaixo está o vídeo de validação dos casos de uso, onde são discutidos os r
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jW598mhkr7I?si=cKDcX22bikxkf2f4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+> **Observação:** O vídeo de validação considerado para os casos de uso é apenas o do João Pedro Costa.
+
 
 ## Bibliografia
 

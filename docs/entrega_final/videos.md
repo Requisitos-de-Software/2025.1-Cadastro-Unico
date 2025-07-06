@@ -1,15 +1,19 @@
 # Vídeos do Projeto
 
 ## Função dos autores
+<figure markdown>
+<p style="text-align: center">Tabela 1 - Função dos autores</p>
+
 | Nome                                               | Função                                                            | 
 |----------------------                              |----------------------------------------------------------------   |
 |[Amanda Cruz](https://github.com/mandicrz)          | Revisão dos itens criados por João Pedro                          | 
-|[João Pedro Costa](https://github.com/johnaopedro)  | Criação do modelo da estrutura do documento; Adição dos videos das técnicas de elicitação de introspecção e análise de documentos; Correção na área de priorização dos links e informações; Adição dos videos de cenarios e casos de uso |
+|[João Pedro Costa](https://github.com/johnaopedro)  | Criação do modelo da estrutura do documento; Adição dos videos das técnicas de elicitação de introspecção e análise de documentos; Correção na área de priorização dos links e informações; Adição dos videos de cenarios, casos de uso e validação do protótipo de alta fidelidade |
 |[João Igor](https://github.com/johnaopedro)  | Adição dos videos, e demais informações, das técnicas de priorização: MoSCoW e Three Level Scale| 
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
-</center>
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
 
 ## Introdução
 
@@ -45,9 +49,8 @@ Abaixo está o vídeo explicativo sobre a análise de documentação e os requis
 ### Validação da análise de documentação
 Uma entrevista presencial com um usuário foi realizada para fins de validação. As informações sobre a entrevista são apresentadas por meio das tabelas abaixo.
 
-<center>
-    <b> Tabela 4:</b> Informações da Entrevista
-</center>
+<figure markdown>
+<p style="text-align: center">Tabela 4:</p>
 
 | Campo   | Informação                                               |
 | :-----: | :------------------------------------------------------: |
@@ -56,14 +59,14 @@ Uma entrevista presencial com um usuário foi realizada para fins de validação
 | Horário | 09:20                                                    |
 | Duração | Cerca de 15 minutos                                      |
 | [Ryan Salles](https://github.com/RA-Salles)  | Secretário/Desenvolvedor |
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
-</center>
-<br>
-<center>
-    <b> Tabela 5:</b> Participantes da Entrevista
-</center>
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
+
+<figure markdown>
+<p style="text-align: center">Tabela 5:</p>
 
 | Nome                                         | Função                   |
 | :------------------------------------------: | :----------------------: |
@@ -71,11 +74,12 @@ Uma entrevista presencial com um usuário foi realizada para fins de validação
 | [João Pedro](https://github.com/johnaopedro) | Entrevistador            |
 | [Ryan Salles](https://github.com/RA-Salles)  | Secretário/Desenvolvedor |
 | [Ryan Salles](https://github.com/RA-Salles)  | Secretário/Desenvolvedor |
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
-</center>
-<br>
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
+
 Abaixo está o vídeo de validação da análise de documentação com o usuário, onde são discutidos os resultados e insights obtidos durante o processo.
 
 #### Vídeo: Validação da análise de documentação
@@ -105,9 +109,8 @@ Abaixo está o vídeo explicativo sobre a introspecção e os requisitos obtidos
 ### Validação da introspecção
 Uma entrevista presencial com um usuário foi realizada para fins de validação. As informações sobre a entrevista são apresentadas por meio da Tabela 6 e 7. 
 
-<center>
-    <b> Tabela 6:</b> Informações da Entrevista
-</center>
+<figure markdown>
+<p style="text-align: center">Tabela 6:</p>
 
 | Campo   | Informação                                               |
 | :-----: | :------------------------------------------------------: |
@@ -115,25 +118,25 @@ Uma entrevista presencial com um usuário foi realizada para fins de validação
 | Data    | 05/06/2025                                               |
 | Horário | 09:20                                                    |
 | Duração | Cerca de 15 minutos                                      |
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
-</center>
-<br>
-<center>
-    <b> Tabela 7:</b> Participantes da Entrevista
-</center>
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
+
+<figure markdown>
+<p style="text-align: center">Tabela 7:</p>
 
 | Nome                                         | Função                   |
 | :------------------------------------------: | :----------------------: |
 | Lucas                                        | Usuário/ Project Owner   |
 | [João Pedro](https://github.com/johnaopedro) | Entrevistador            |
 | [Ryan Salles](https://github.com/RA-Salles)  | Secretário/Desenvolvedor |
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
-</center>
-<br>
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
 
 Abaixo está o vídeo de validação da introspecção com o usuário, onde são discutidos os resultados e insights obtidos durante a introspecção.
 
@@ -174,9 +177,8 @@ Nesta técnica o usuário do aplicativo prioriza os requisitos elicitados anteri
 
 Esta técnica foi executada presencialmente na UnB, com a equipe de desenvolvimento e um usuário do aplicativo. As informações sobre a entrevista são apresentadas por meio da Tabela 12 e 13.
 
-<center>
-    <b> Tabela 12:</b> Informações da Entrevista
-</center>
+<figure markdown>
+<p style="text-align: center">Tabela 12:</p>
 
 | Campo   | Informação                                               |
 | :-----: | :------------------------------------------------------: |
@@ -184,14 +186,14 @@ Esta técnica foi executada presencialmente na UnB, com a equipe de desenvolvime
 | Data    | 05/06/2025                                               |
 | Horário | 09:20                                                    |
 | Duração | Cerca de 15 minutos                                      |
-<center>
-     Autor(es): 
-    <a href="https://github.com/JoaoPC10" target="_blank">João Igor</a>
-</center>
-<br>
-<center>
-    <b> Tabela 13:</b> Participantes da Entrevista
-</center>
+
+**Autor(es):** [João Igor](https://github.com/JoaoPC10)
+
+<figcaption></figcaption>
+</figure>
+
+<figure markdown>
+<p style="text-align: center">Tabela 13:</p>
 
 | Nome                                         | Função                   |
 | :------------------------------------------: | :----------------------: |
@@ -200,11 +202,10 @@ Esta técnica foi executada presencialmente na UnB, com a equipe de desenvolvime
 | [João Igor](https://github.com/JoaoPC10)     | Observador               |
 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | Secretário        |
 
-<center>
-    Autor(es): 
-    <a href="https://github.com/JoaoPC10" target="_blank">João Igor</a>
-</center>
-<br>
+**Autor(es):** [João Igor](https://github.com/JoaoPC10)
+
+<figcaption></figcaption>
+</figure>
 
 #### Video 13: Priorização dos requisitos através do MoSCoW
 
@@ -232,9 +233,8 @@ Nesta técnica o usuário do aplicativo prioriza os requisitos elicitados anteri
 
 Esta técnica foi executada presencialmente na UnB, com a equipe de desenvolvimento e um usuário do aplicativo. As informações sobre a entrevista são apresentadas por meio da Tabela 16 e 17.
 
-<center>
-    <b> Tabela 16:</b> Informações da Entrevista
-</center>
+<figure markdown>
+<p style="text-align: center">Tabela 16:</p>
 
 | Campo   | Informação                                               |
 | :-----: | :------------------------------------------------------: |
@@ -242,14 +242,14 @@ Esta técnica foi executada presencialmente na UnB, com a equipe de desenvolvime
 | Data    | 05/06/2025                                               |
 | Horário | 09:00                                                    |
 | Duração | Cerca de 15 minutos                                      |
-<center>
-    Autor(es): 
-    <a href="https://github.com/JoaoPC10" target="_blank">João Igor</a>
-</center>
-<br>
-<center>
-    <b> Tabela 17:</b> Participantes da Entrevista
-</center>
+
+**Autor(es):** [João Igor](https://github.com/JoaoPC10)
+
+<figcaption></figcaption>
+</figure>
+
+<figure markdown>
+<p style="text-align: center">Tabela 17:</p>
 
 | Nome                                         | Função                   |
 | :------------------------------------------: | :----------------------: |
@@ -258,11 +258,11 @@ Esta técnica foi executada presencialmente na UnB, com a equipe de desenvolvime
 | [Ryan Salles](https://github.com/RA-Salles)  | Secretário/Desenvolvedor |
 | [João Igor](https://github.com/JoaoPC10)     | Observador               |
 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | Secretário        |
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a> e <a href="https://github.com/JoaoPC10" target="_blank">João Igor</a>
-</center>
-<br>
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro) e [João Igor](https://github.com/JoaoPC10)
+
+<figcaption></figcaption>
+</figure>
 
 #### Video 17: Priorização dos requisitos através do Three Level Scale
 
@@ -304,35 +304,34 @@ Abaixo estão os vídeos explicativos sobre os cenários elaborados, conforme re
 ### Validação dos Cenários
 Uma reunião presencial foi realizada para fins de validação dos cenários elaborados. As informações sobre a reunião são apresentadas por meio das tabelas abaixo.
 
-<center>
-    <b> Tabela 8:</b> Informações da Reunião
-</center>
+<figure markdown>
+<p style="text-align: center">Tabela 8:</p>
 
 | Campo   | Informação                                               |
 | :-----: | :------------------------------------------------------: |
 | Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
 | Data    | 05/06/2025                                               |
 | Horário | 10:00                                                    |
-| Duração | Cerca de 25 minutos                                      |
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
-</center>
-<br>
-<center>
-    <b> Tabela 9:</b> Participantes da Reunião
-</center>
+| Duração | Cerca de 5 minutos                                      |
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
+
+<figure markdown>
+<p style="text-align: center">Tabela 9:</p>
 
 | Nome                                         | Função                   |
 | :------------------------------------------: | :----------------------: |
 | José                                         | Usuário/ Project Owner   |
 | [João Pedro](https://github.com/johnaopedro) | Entrevistador            |
 | [Julia Gabriela](https://github.com/JuliaGabP) | Secretário/Desenvolvedor |
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
-</center>
-<br>
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
 
 Abaixo está o vídeo de validação dos cenários, onde são discutidos os resultados e insights obtidos durante a elaboração dos cenários.
 
@@ -343,6 +342,9 @@ Abaixo está o vídeo de validação dos cenários, onde são discutidos os resu
 <figcaption>Autor(es): 
     <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
 </figure>
+
+> **Observação:** O vídeo de validação considerado para os cenários é apenas o do João Pedro Costa.
+
 </details>
 
 <details markdown="1">
@@ -351,35 +353,34 @@ Abaixo está o vídeo de validação dos cenários, onde são discutidos os resu
 ### Validação dos Casos de Uso
 Uma reunião presencial foi realizada para fins de validação dos casos de uso elaborados. As informações sobre a reunião são apresentadas por meio das tabelas abaixo.
 
-<center>
-    <b> Tabela 10:</b> Informações da Reunião
-</center>
+<figure markdown>
+<p style="text-align: center">Tabela 10:</p>
 
 | Campo   | Informação                                               |
 | :-----: | :------------------------------------------------------: |
 | Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
 | Data    | 05/06/2025                                               |
 | Horário | 10:30                                                    |
-| Duração | Cerca de 30 minutos                                      |
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
-</center>
-<br>
-<center>
-    <b> Tabela 11:</b> Participantes da Reunião
-</center>
+| Duração | Cerca de 5 minutos                                      |
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
+
+<figure markdown>
+<p style="text-align: center">Tabela 11:</p>
 
 | Nome                                         | Função                   |
 | :------------------------------------------: | :----------------------: |
 | José                                         | Usuário/ Project Owner   |
 | [João Pedro](https://github.com/johnaopedro) | Entrevistador            |
 | [Julia Gabriela](https://github.com/JuliaGabP) | Secretário/Desenvolvedor |
-<center>
-    Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
-</center>
-<br>
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
 
 Abaixo está o vídeo de validação dos casos de uso, onde são discutidos os resultados e insights obtidos durante a elaboração dos casos de uso.
 
@@ -390,7 +391,67 @@ Abaixo está o vídeo de validação dos casos de uso, onde são discutidos os r
 <figcaption>Autor(es): 
     <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
 </figure>
+
+> **Observação:** O vídeo de validação considerado para os casos de uso é apenas o do João Pedro Costa.
+
+
 </details>
+
+</details>
+
+## Etapa 5
+
+<details markdown="1">
+<summary>Validação</summary>
+
+  <details markdown="1">
+  <summary>Protótipo</summary>
+
+### Validação do Protótipo - [João Pedro Costa](https://github.com/johnaopedro)
+
+A validação do protótipo de alta fidelidade do João Pedro Costa foi realizada presencialmente. As informações da reunião presencial são apresentadas nos blocos a seguir.
+
+<figure markdown>
+<p style="text-align: center">Tabela 18 - Informações da Reunião</p>
+
+| Campo   | Informação                                               |
+| :-----: | :------------------------------------------------------: |
+| Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
+| Data    | 05/06/2025                                               |
+| Horário | 12:00                                                    |
+| Duração | Cerca de 5 minutos                                       |
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
+
+<figure markdown>
+<p style="text-align: center">Tabela 19 - Participantes da Reunião</p>
+
+| Nome                                         | Função                 |
+| :------------------------------------------- | :--------------------- |
+| Artur                                        | Usuário/Project Owner  |
+| [João Pedro](https://github.com/johnaopedro) | Entrevistador          |
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
+
+Abaixo está o protótipo validado:
+
+<figure markdown>
+<p style="text-align: center">Protótipo Validado</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kj2utjtO5CY?si=zAVC70wgnUurgMrt" frameborder="0" allowfullscreen></iframe>
+
+**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+
+<figcaption></figcaption>
+</figure>
+
+  </details>
 
 </details>
 
@@ -404,3 +465,4 @@ Abaixo está o vídeo de validação dos casos de uso, onde são discutidos os r
 |  1.4   | 05/06/2025 | Adição do vídeo da técnica Three Level Scale | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
 |  1.5   | 05/06/2025 | Adição dos vídeos de validação da Etapa 3 (Cenários e Casos de Uso) | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
 |  1.6   | 05/06/2025 | Adição dos vídeos de explicação dos Cenários | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
+|  1.7   | 01/07/2025 | Inclusão da validação presencial do protótipo de alta fidelidade, tabelas e vídeo de validação | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
