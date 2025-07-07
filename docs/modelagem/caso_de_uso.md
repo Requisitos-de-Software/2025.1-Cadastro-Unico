@@ -2,15 +2,16 @@
 
 ## Funções dos autores
 
-| Nome                 | Função                                                            | 
-|----------------------|----------------------------------------------------------------   |
-|[Amanda Cruz](https://github.com/mandicrz)|Criação do caso de uso 15| 
-|[Gabriel Flores](https://github.com/Gabrielfcoelho)|Criação dos casos de uso 16 e 17; Criação do diagrama| 
-|[João Igor](https://github.com/JoaoPC10)|Criação do caso de uso 14| 
-|[João Pedro Costa](https://github.com/johnaopedro)|Criação da página; Criação dos casos de uso 10 à 13; Adição de referências e imagens; Correção pelo metodo de Fagan; Revisão geral| 
-|[Julia Gabriela](https://github.com/JuliaGabP)|Criação dos casos de uso 1 à 3, 6 e 7.| 
-|[Ryan Salles](https://github.com/RA-Salles)|Revisão geral; Criação dos casos de uso 4, 5, 8 e 9; Criação do diagrama.| 
-<center>
+| Nome                                                | Função                                                                                                                             | 
+|----------------------                               |----------------------------------------------------------------                                                                    |
+| [Amanda Cruz](https://github.com/mandicrz)          | Criação do caso de uso 15                                                                                                          | 
+| [Gabriel Flores](https://github.com/Gabrielfcoelho) | Criação dos casos de uso 16 e 17; Criação do diagrama                                                                              | 
+| [João Igor](https://github.com/JoaoPC10)            | Criação do caso de uso 14                                                                                                          | 
+| [João Pedro Costa](https://github.com/johnaopedro)  | Criação da página; Criação dos casos de uso 10 à 13; Adição de referências e imagens; Correção pelo metodo de Fagan; Revisão geral | 
+| [Julia Gabriela](https://github.com/JuliaGabP)      | Criação dos casos de uso 1 à 3, 6 e 7.                                                                                             |
+| [Ryan Salles](https://github.com/RA-Salles)         | Revisão geral; Criação dos casos de uso 4, 5, 8 e 9; Criação do diagrama.                                                          | 
+
+<center>     
     Autor(es): 
     <a href="https://github.com/JuliaGabP" target="_blank">Julia Gabriela</a>
 </center>
@@ -130,15 +131,16 @@ As Tabelas, enumeradas de 2 a 16, definidas como UC01 a UC15 apresentam a especi
 
 | UC04 | Conferir informações sobre benefícios|
 |------|----------------------------|
-| **Descrição** | Permite aos usuários, com ou sem autenticação, ler sobre os possíveis benefícios disponíveis no aplicativo |
-| **Ator(es)** | Usuário |
-| **Pré-condições** | O usuário possui o aplicativo instalado em seu dispositivo compatível |
-| **Ação** | O usuário confere informações sobre os benefícios e informa-se |
-| **Fluxo principal** | <ol><li>Usuário instala e abre o aplicativo</li> <li>Seleciona a opção "Programas sociais"</li><li> Sistema lista programas sociais com informações disponíveis</li> <li> Usuário clica na opção desejada </li> <li>Sistema lista as informações disponíveis sobre o programa social escolhido </li> </ul> |
+| **Descrição**        | Permite aos usuários, com ou sem autenticação, ler sobre os possíveis benefícios disponíveis no aplicativo |
+| **Ator(es)**         | Usuário |
+| **Pré-condições**    | O usuário possui o aplicativo instalado em seu dispositivo compatível |
+| **Ação**             | O usuário confere informações sobre os benefícios e informa-se |
+| **Fluxo principal**  | <ol><li>Usuário instala e abre o aplicativo</li> <li>Seleciona a opção "Programas sociais"</li><li> Sistema lista programas sociais com informações disponíveis</li> <li> Usuário clica na opção desejada </li> <li>Sistema lista as informações disponíveis sobre o programa social escolhido </li> </ul> |
+| **Fluxo alternativo**| <ol><li>Usuário instala e abre o aplicativo</li> <li>Usuário seleciona opção "logar com GOV.br"</li><li>Usuário conclui autenticação</li> <li>Seleciona a opção "Programas sociais"</li><li> Sistema lista programas sociais com informações disponíveis</li> <li> Usuário clica na opção desejada </li> <li>Sistema lista as informações disponíveis sobre o programa social escolhido </li> </ul> |
 | **Fluxo de exceção** | <ul><li>Erro de interface: Sistema lista informações incorretamente ou de forma ilegível</li><li>Sem conexão em computadores: sistema não inicia</li></ul> |
-| **Pós-condições** | O usuário possui informações sobre o programa social escolhido |
-| **Data de Criação** | 17/05/2025 |
-| **Rastreabilidade** | [RF24](https://github.com/Requisitos-de-Software/2025.1-Cadastro-Unico/blob/main/docs/elicitacao/requisitos_elicitados.md) |
+| **Pós-condições**    | O usuário possui informações sobre o programa social escolhido |
+| **Data de Criação**  | 17/05/2025 |
+| **Rastreabilidade**  | [RF24](https://github.com/Requisitos-de-Software/2025.1-Cadastro-Unico/blob/main/docs/elicitacao/requisitos_elicitados.md) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/RA-Salles">Ryan Salles</a></b></p></font>
 
@@ -150,15 +152,16 @@ As Tabelas, enumeradas de 2 a 16, definidas como UC01 a UC15 apresentam a especi
 
 | UC05 | Verificar postos de atendimento |
 |------|----------------------------|
-| **Descrição** | Permite aos usuários verificar postos de atendimento disponíveis |
-| **Ator(es)** | Usuário, Sistema CadÚnico|
-| **Pré-condições** | O usuário possui um dispositivo compatível com o aplicativo e acesso à internet. |
-| **Ação** | O usuário confere informações sobre os postos de atendimento disponíveis. |
-| **Fluxo principal** | <ol><li>Usuário instala e abre o aplicativo</li><li>Seleciona a opção “Postos de atendimento”</li><li>Preenche dados para requisição de informação: Estado, Município, Tipo Posto</li><li>Envia a solicitação</li><li>O sistema lista os postos disponíveis</li> <li> Usuário lê informações listadas </li></ol> |
-| **Fluxo de exceção** | <ul><li> Carregamento infinito: sistema passa um período indeterminado obtendo informações sobre o posto escolhido e demais interações são bloqueadas</li><li>Sem conexão: aplicativo não apresenta opções para requisição em caso de falta de conexão com a internet</li></ul> |
-| **Pós-condições** | O sistema  lista informações sobre os postos disponíveis. |
-| **Data de Criação** | 17/05/2025 |
-| **Rastreabilidade** | [RF16](https://github.com/Requisitos-de-Software/2025.1-Cadastro-Unico/blob/main/docs/elicitacao/requisitos_elicitados.md) |
+| **Descrição**         | Permite aos usuários verificar postos de atendimento disponíveis |
+| **Ator(es)**          | Usuário, Sistema CadÚnico|
+| **Pré-condições**     | O usuário possui um dispositivo compatível com o aplicativo e acesso à internet. |
+| **Ação**              | O usuário confere informações sobre os postos de atendimento disponíveis. |
+| **Fluxo principal**   | <ol><li>Usuário instala e abre o aplicativo</li><li>Seleciona a opção “Postos de atendimento”</li><li>Preenche dados para requisição de informação: Estado, Município, Tipo Posto</li><li>Envia a solicitação</li><li>O sistema lista os postos disponíveis</li> <li> Usuário lê informações listadas </li></ol> |
+| **fluxo alternativo** | <ol><li>Usuário instala e abre o aplicativo</li><li>Usuário seleciona opção "logar com GOV.br"</li><li>Usuário conclui autenticação</li><li>Seleciona a opção “Postos de atendimento”</li><li>Preenche dados para requisição de informação: Estado, Município, Tipo Posto</li><li>Envia a solicitação</li><li>O sistema lista os postos disponíveis</li> <li> Usuário lê informações listadas </li></ol> |
+| **Fluxo de exceção**  | <ul><li> Carregamento infinito: sistema passa um período indeterminado obtendo informações sobre o posto escolhido e demais interações são bloqueadas</li><li>Sem conexão: aplicativo não apresenta opções para requisição em caso de falta de conexão com a internet</li></ul> |
+| **Pós-condições**     | O sistema  lista informações sobre os postos disponíveis. |
+| **Data de Criação**   | 17/05/2025 |
+| **Rastreabilidade**   | [RF16](https://github.com/Requisitos-de-Software/2025.1-Cadastro-Unico/blob/main/docs/elicitacao/requisitos_elicitados.md) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/RA-Salles">Ryan Salles</a></b></p></font>
 
@@ -212,15 +215,15 @@ As Tabelas, enumeradas de 2 a 16, definidas como UC01 a UC15 apresentam a especi
 
 | UC08 | Acessar chatbot |
 |------|----------------------------|
-| **Descrição** | Permite aos usuários consultar um assistente virtual configurado para responder questões e dúvidas frequentes |
-| **Ator(es)** | Usuário, Assistente Virtual|
-| **Pré-condições** | O usuário possui um dispositivo compatível com o aplicativo e acesso à internet. |
-| **Ação** | acessar Chatbot |
-| **Fluxo principal** | <ol><li>Usuário instala e abre o aplicativo</li><li>Usuário aperta no botão de "login" </li><li>Usuário preenche informações de login e envia uma solicitação de autenticação</li><li> Usuário é autenticado pelo gov.br</li><li>Usuário aperta no botão "Assistente Virtual" e é movido para a tela do Assistente Virtual</li> <li> Usuário realiza uma pergunta</li> <li>O Assistente Virtual responde a pergunta</li></ol> |
+| **Descrição**        | Permite aos usuários consultar um assistente virtual configurado para responder questões e dúvidas frequentes |
+| **Ator(es)**         | Usuário, Assistente Virtual|
+| **Pré-condições**    | O usuário possui um dispositivo compatível com o aplicativo e acesso à internet. |
+| **Ação**             | acessar Chatbot |
+| **Fluxo principal**  | <ol><li>Usuário instala e abre o aplicativo</li><li>Usuário aperta no botão de "login" </li><li>Usuário preenche informações de login e envia uma solicitação de autenticação</li><li> Usuário é autenticado pelo gov.br</li><li>Usuário aperta no botão "Assistente Virtual" e é movido para a tela do Assistente Virtual</li> <li> Usuário realiza uma pergunta</li> <li>O Assistente Virtual responde a pergunta</li></ol> |
 | **Fluxo de exceção** | <ul><li> Usuário não cadastrado: Usuário não consegue acessar a funcionalidade ao não conseguir passar pelo processo de autenticação</li><li>Sem conexão: aplicativo não realiza login ao não possuir conexão com o sistema gov.br</li> <li> Assistente em manutenção: O assistente virtual está em manutenção e está indisponível </li> <li> Assistente não sabe responder: Assistente Virtual não possui informações suficientes para responder ao usuário </li></ul> |
-| **Pós-condições** | O usuário tem sua dúvida esclarecida. |
-| **Data de Criação** | 17/05/2025 |
-| **Rastreabilidade** | [RF26](https://github.com/Requisitos-de-Software/2025.1-Cadastro-Unico/blob/main/docs/elicitacao/requisitos_elicitados.md) |
+| **Pós-condições**    | O usuário tem sua dúvida esclarecida. |
+| **Data de Criação**  | 17/05/2025 |
+| **Rastreabilidade**  | [RF26](https://github.com/Requisitos-de-Software/2025.1-Cadastro-Unico/blob/main/docs/elicitacao/requisitos_elicitados.md) |
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/RA-Salles">Ryan Salles</a></b></p></font>
 

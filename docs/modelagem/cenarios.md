@@ -2,14 +2,15 @@
 
 ## Funções dos autores
 
-| Nome                 | Função                                                            | 
-|----------------------|----------------------------------------------------------------   |
-|[Amanda Cruz](https://github.com/mandicrz)|Criação dos cenários 14 e 15| 
-|[Gabriel Flores](https://github.com/Gabrielfcoelho)| Criação dos cenários 16 e 17| 
-|[João Igor](https://github.com/JoaoPC10)|Criação do cenário 16| 
-|[João Pedro Costa](https://github.com/johnaopedro)|Revisão geral; Criação dos cenários 10 à 13; Correção pelo metodo de Fagan| 
-|[Julia Gabriela](https://github.com/JuliaGabP)|Adição do vídeo de explicação e referências; Criação dos cenários 1, 2, 3, 6 e 7| 
-|[Ryan Salles](https://github.com/RA-Salles)|Criação da documentação com introduções, criação dos cenários 4, 5, 8 e 9| 
+| Nome                                                | Função                                                                           | 
+|----------------------                               |----------------------------------------------------------------                  |
+| [Amanda Cruz](https://github.com/mandicrz)          | Criação dos cenários 14 e 15                                                     | 
+| [Gabriel Flores](https://github.com/Gabrielfcoelho) | Criação dos cenários 16 e 17                                                     | 
+| [João Igor](https://github.com/JoaoPC10)            | Criação do cenário 16                                                            | 
+| [João Pedro Costa](https://github.com/johnaopedro)  | Revisão geral; Criação dos cenários 10 à 13; Correção pelo metodo de Fagan       | 
+| [Julia Gabriela](https://github.com/JuliaGabP)      | Adição do vídeo de explicação e referências; Criação dos cenários 1, 2, 3, 6 e 7 | 
+| [Ryan Salles](https://github.com/RA-Salles)         | Criação da documentação com introduções, criação dos cenários 4, 5, 8 e 9        | 
+
 <center>
     Autor(es): 
     <a href="https://github.com/JuliaGabP" target="_blank">Julia Gabriela</a>
