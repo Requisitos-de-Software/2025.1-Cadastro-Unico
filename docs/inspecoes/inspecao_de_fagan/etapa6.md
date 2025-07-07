@@ -1,4 +1,4 @@
-# Inspeção Fagan – Etapa 4
+# Inspeção Fagan – Etapa 6
 
 ## Funções dos autores
 
