@@ -153,7 +153,7 @@ Segue o anexo do vídeo referente à validação realizada com o usuário.
 
 > BOICHEVA, S. What is Prototype Design? [Guide 2024]. Disponível em: <https://htmlburger.com/blog/prototype-design/>.
 
-<p style="text-align:center"><strong>Figura 3:</strong> O que é um protótipo de design?</p> 
+<p style="text-align:center"><strong>Figura 4:</strong> O que é um protótipo de design?</p> 
 
 <div style="text-align: left;">
     <img src="../../assets/referencias/prototipo/referencia_prototipo2.png" alt="Print do site">
