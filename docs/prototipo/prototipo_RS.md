@@ -68,13 +68,14 @@ Essas telas foram projetadas para garantir uma navegação intuitiva e facilitar
 
 ### Protótipos Chatbot e Assistência por Voz
 
-**Autor:** [Ryan Salles](https://github.com/johnaopedro)
-**Funcionalidade:** Assistência por Voz e Chatbot  
-**Rastreabilidade:** [RF26 e RF37](../../elicitacao/requisitos_elicitados.md)  
-**Ferramentas:** Figma  
-**Tipo:** Alta Fidelidade 
+**Autor:** [Ryan Salles](https://github.com/RA-Salles)<br></br>
+**Funcionalidade:** Assistência por Voz e Chatbot  <br></br>
+**Rastreabilidade:** [RF26](../../elicitacao/requisitos_elicitados.md), [RF37](../../elicitacao/requisitos_elicitados.md)  <br></br>
+**Ferramentas:** Figma  <br></br>
+**Tipo:** Alta Fidelidade <br></br>
 
 ### Chatbot e Assistência por Voz
+
 <div style="text-align: left;">
     <img src="../../assets/prototipo/prototipo9_10.gif" alt="Gif da voz e chatbot" style="width:185">
 </div>
@@ -97,7 +98,7 @@ A validação dos protótipos foi realizada presencialmente. As informações da
     Autor(es): 
     <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
 </center>
-<br>
+<br></br>
 
 ### Tabela 2: Participantes da Entrevista
 
@@ -126,12 +127,14 @@ A validação dos protótipos foi realizada presencialmente. As informações da
 ---
 
 ## Bibliografia
-BRUTON, L. A complete guide to prototyping - UX Design Institute. Disponível em: <https://www.uxdesigninstitute.com/blog/prototyping-guide/>.
+>BRUTON, L. A complete guide to prototyping - UX Design Institute. Disponível em: <https://www.uxdesigninstitute.com/blog/prototyping-guide/>.
+
 <div style="text-align: left;">
     <img src="../../assets/referencias/prototipo/referencia_prototipo1.png" alt="Print do site">
 </div>
 
-BOICHEVA, S. What is Prototype Design? [Guide 2024]. Disponível em: <https://htmlburger.com/blog/prototype-design/>.
+>BOICHEVA, S. What is Prototype Design? [Guide 2024]. Disponível em: <https://htmlburger.com/blog/prototype-design/>.
+
 <div style="text-align: left;">
     <img src="../../assets/referencias/prototipo/referencia_prototipo2.png" alt="Print do site">
 </div>
@@ -141,5 +144,5 @@ BOICHEVA, S. What is Prototype Design? [Guide 2024]. Disponível em: <https://ht
 ## Histórico de versão
 | Versão |    Data    |    Descrição                                       |         Autor                                      |       Revisor                                      |
 | :----: | :--------: | :--------------:                                   | :-------------------:                              | :----------------:                                 |
-|  1.0   | 01/07/2025 | Desenvolvimento das informações da pagina          | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.0   | 01/07/2025 | Desenvolvimento do modelo de documento             | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
 |  1.1   | 06/07/2025 | Modificação do modelo para uso com outro protótipo | [Ryan Salles](https://github.com/RA-Salles)        | [João Pedro Costa](https://github.com/johnaopedro) |
