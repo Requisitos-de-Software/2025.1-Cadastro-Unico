@@ -35,7 +35,12 @@ Tive bastante dificuldade em manter a frequência nas aulas, principalmente por 
 
 # **Gabriel Flores**
 ## *Facilidades*
+
+A única facilidade no decorrer da disciplina foi trabalhar com meus colegas de grupo, os quais fizeram um ótimo trabalho, apesar das dificuldades, para entregar o projeto.
+
 ## *Dificuldades*
+
+Acredito que existam vários pontos em que a disciplina possa ser aprimorada. Em muitas aulas, o conteúdo programado não foi totalmente explicado pelo professor em sala e, algumas vezes, a dinâmica consistia em responder uma lista de exercícios ou ler um texto e explicar para o professor. Considero que esses métodos não contribuíram para o meu aprendizado e não tiveram o mesmo efeito das aulas que contavam com a participação ativa do professor do início ao fim. A rigidez excessiva com a pontualidade pode gerar um desgaste desnecessário com os alunos. Por fim, as atividades muito extensas e em grande quantidade demandam muito tempo do aluno, o que pode levá-lo a negligenciar outras disciplinas.
 
 # **João Igor**
 ## *Facilidades*
