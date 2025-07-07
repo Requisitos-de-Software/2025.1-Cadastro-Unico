@@ -2,14 +2,19 @@
 
 ## Funções dos autores
 
+<center>
+    <b>Tabela 1:</b> Função dos Autores
+</center>
+
 | Nome                 | Função                                                            | 
 |----------------------|----------------------------------------------------------------   |
-|[Amanda Cruz](https://github.com/mandicrz)|                                               | 
+|[Amanda Cruz](https://github.com/mandicrz)| Adição das opiniões relativas à matéria       | 
 |[Gabriel Flores](https://github.com/Gabrielfcoelho)|                                      | 
 |[João Igor](https://github.com/JoaoPC10)|Criação do documento e adição das opiniões relativas à matéria| 
 |[João Pedro Costa](https://github.com/johnaopedro)| Adição das opiniões relativas à matéria            | 
 |[Julia Gabriela](https://github.com/JuliaGabP)|                                           | 
 |[Ryan Salles](https://github.com/RA-Salles)|                                              |
+
 <center>
     Autor(es): 
     <a href="https://github.com/JoaoPC10" target="_blank">João Igor</a>
@@ -21,7 +26,12 @@ Abaixo serão descritas as vivências de cada integrantes do grupo em relação 
 
 # **Amanda Cruz**
 ## *Facilidades*
+
+Uma das facilidades que tive durante o projeto foi conseguir entender bem o conteúdo de Requisitos de Software. Isso ajudou muito na hora de aplicar os conceitos na prática e desenvolver os artefatos. Também achei tranquilo me adaptar aos padrões exigidos pelo professor, como a formatação ABNT e a documentação em Markdown.
+
 ## *Dificuldades*
+
+Tive bastante dificuldade em manter a frequência nas aulas, principalmente por causa de atrasos no transporte público. A distância, o horário e a falta de linhas disponíveis acabavam dificultando minha chegada na faculdade. Além disso, em diversos momentos do meio e final de semestre acabei por enfrentar alguns problemas de saúde e fiquei sobrecarregada tentando conciliar as entregas do projeto, as listas de exercícios (que eram bem extensas) e as outras matérias. Foi um período bem puxado, com isso me atrasei um pouco no conteúdo, mas tentei me organizar da melhor forma possível.
 
 # **Gabriel Flores**
 ## *Facilidades*
@@ -62,3 +72,4 @@ Por fim, em relação a manter o planejamento e o ritmo das entregas foi o mais 
 | :----: | :--------: | :--------------: | :-------------------: | :----------------: |
 |  1.0   | 04/07/2025 | Craição da Página| [João Igor](https://github.com/JoaoPC10)   | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
 |  1.1   | 07/07/2025 | Adição das facilidades e dificuldades do João Pedro | [João Pedro Costa](https://github.com/johnaopedro) |[Amanda Cruz](https://github.com/mandicrz)| 
+|  1.2   | 07/07/2025 | Adição das facilidades e dificuldades da Amanda Cruz |[Amanda Cruz](https://github.com/mandicrz)| [João Pedro Costa](https://github.com/johnaopedro)| 
