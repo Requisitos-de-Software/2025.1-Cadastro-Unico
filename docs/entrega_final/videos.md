@@ -7,7 +7,7 @@
 | Nome                                               | Função                                                            | 
 |----------------------                              |----------------------------------------------------------------   |
 |[Amanda Cruz](https://github.com/mandicrz)          | Revisão dos itens criados por João Pedro                          | 
-|[João Pedro Costa](https://github.com/johnaopedro)  | Criação do modelo da estrutura do documento; Adição dos videos das técnicas de elicitação de introspecção e análise de documentos; Correção na área de priorização dos links e informações; Adição dos videos de cenarios, casos de uso e validação do protótipo de alta fidelidade |
+|[João Pedro Costa](https://github.com/johnaopedro)  | Criação do modelo da estrutura do documento; Adição dos videos das técnicas de elicitação de introspecção e análise de documentos; Correção na área de priorização dos links e informações; Adição dos videos de cenarios, casos de uso e validação do protótipo de alta fidelidade; Adição do videos de Backlog e História de Usuário |
 |[João Igor](https://github.com/johnaopedro)  | Adição dos videos, e demais informações, das técnicas de priorização: MoSCoW e Three Level Scale| 
 
 **Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
@@ -268,7 +268,9 @@ Esta técnica foi executada presencialmente na UnB, com a equipe de desenvolvime
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HV6II_-XTVc?si=EM-kqJggTzlJKyXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<figcaption>Vídeo sobre a priorização utilizando a técnica Three Level Scale.</figcaption>
+<figcaption>Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
 </details>
 
 </details>
@@ -399,6 +401,109 @@ Abaixo está o vídeo de validação dos casos de uso, onde são discutidos os r
 
 </details>
 
+## Etapa 4
+
+<details markdown="1">
+<summary><strong>NFR Framework</strong></summary>
+
+### Explicação sobre o NFR Framework
+O NFR Framework (Non-Functional Requirements Framework) é um artefato utilizado para representar, analisar e decompor requisitos não funcionais do sistema, como desempenho, segurança, usabilidade e confiabilidade. Ele utiliza diagramas (SIGs) para mostrar as relações entre os requisitos e como decisões de design impactam a qualidade do sistema. No projeto, o NFR Framework foi essencial para garantir que atributos de qualidade fossem considerados desde o início do desenvolvimento.
+
+<!-- Caso haja vídeo explicativo sobre o NFR Framework, inserir abaixo: -->
+<!-- <figure markdown>
+<iframe ...></iframe>
+<figcaption>Vídeo explicativo sobre o NFR Framework.</figcaption>
+</figure> --> /*ACHO Q N VAI TER '-'*/
+
+Para mais detalhes, acesse o documento completo: [NFR Framework](../modelagem/agil/NFR.md)
+
+</details>
+
+<details markdown="1">
+<summary><strong>Histórias de Usuário</strong></summary>
+
+### Explicação sobre as Histórias de Usuário
+As Histórias de Usuário descrevem funcionalidades do ponto de vista do usuário, utilizando uma linguagem simples e centrada nas necessidades reais. Elas servem como base para validação das funcionalidades e definição dos critérios de aceite. No projeto, as histórias de usuário foram validadas em reuniões com usuários, garantindo alinhamento com as necessidades do público-alvo.
+
+#### Validação das Histórias de Usuário
+As validações foram realizadas em reuniões com usuários, conforme as tabelas abaixo:
+
+<figure markdown>
+<p style="text-align: center">Tabela 25 - Participantes da reunião de validação 1</p>
+
+| Participante      | Função                          |
+| :--------:        | :-----------------------------: |
+| Davi G. A. Pierre | Usuário/ Project Owner          |
+| João Pedro Costa  | Desenvolvedor/Secretário        |
+| Julia Paulino     | Desenvolvedora                  |
+| Ryan Salles       | Desenvolvedor/Entrevistador     |
+
+<figcaption></figcaption>
+</figure>
+
+<figure markdown>
+<p style="text-align: center">Tabela 26 - Participantes da reunião de validação 2</p>
+
+| Participante      | Função                          |
+| :--------:        | :-----------------------------: |
+| Lucas M. Arruda   | Usuário/ Project Owner          |
+| João Pedro Costa  | Desenvolvedora/Secretário       |
+| Ryan Salles       | Desenvolvedor/Entrevistador     |
+
+<figcaption></figcaption>
+</figure>
+
+Os vídeos das reuniões de validação estão disponíveis abaixo:
+
+<figure markdown>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSUJdqnPAb4?si=2k0uWOnWp9peWcgL" title="Validação 1" frameborder="0" allowfullscreen></iframe>
+<figcaption>Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
+
+<figure markdown>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T9YJ_fNqxn4?si=XW0fHgTrpbb4Jtso" title="Validação 2" frameborder="0" allowfullscreen></iframe>
+<figcaption>Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
+
+Para mais detalhes, acesse o documento completo: [Histórias de Usuário](../modelagem/agil/historia_de_usuario.md)
+
+</details>
+
+<details markdown="1">
+<summary><strong>Backlog do Produto</strong></summary>
+
+### Explicação sobre o Backlog do Produto
+O Backlog do Produto é uma lista priorizada de funcionalidades, épicos e estórias que orientam o desenvolvimento incremental do sistema. Ele é organizado por temas, épicos, features e estórias, facilitando a gestão e a entrega contínua de valor. No projeto, o backlog foi validado em reunião com o Product Owner, garantindo que as prioridades estivessem alinhadas com as expectativas do cliente.
+
+#### Validação do Backlog
+A validação do backlog foi realizada em reunião com o Product Owner, conforme a tabela abaixo:
+
+<figure markdown>
+<p style="text-align: center">Tabela 27 - Participantes da Reunião com o PO</p>
+
+| Nome            | Função                     |
+| :-------------: | :------------------------: |
+| Lucas M. Arruda | Project Owner/Usuário      |
+| João Pedro      | Desenvolvedor/Secretário   |
+| Ryan Salles     | Entrevistador/Desenvolvedor|
+
+<figcaption></figcaption>
+</figure>
+
+O vídeo da reunião de validação está disponível abaixo:
+
+<figure markdown>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T9YJ_fNqxn4?si=XW0fHgTrpbb4Jtso" title="Validação Backlog" frameborder="0" allowfullscreen></iframe>
+<figcaption>Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
+
+Para mais detalhes, acesse o documento completo: [Backlog do Produto](../modelagem/agil/backlog.md)
+
+</details>
+
 ## Etapa 5
 
 <details markdown="1">
@@ -409,7 +514,7 @@ Abaixo está o vídeo de validação dos casos de uso, onde são discutidos os r
 
 ### Validação do Protótipo - [João Pedro Costa](https://github.com/johnaopedro)
 
-A validação do protótipo de alta fidelidade do João Pedro Costa foi realizada presencialmente. As informações da reunião presencial são apresentadas nos blocos a seguir.
+A validação do protótipo de alta fidelidade do João Pedro Costa foi realizada presencialmente. Os prototipos validados foram os de agendar atendimento e o chat de atendimento. As informações da reunião presencial são apresentadas nos blocos a seguir.
 
 <figure markdown>
 <p style="text-align: center">Tabela 18 - Informações da Reunião</p>
@@ -439,14 +544,15 @@ A validação do protótipo de alta fidelidade do João Pedro Costa foi realizad
 <figcaption></figcaption>
 </figure>
 
-Abaixo está o protótipo validado:
+Abaixo está o video de validação do protótipo:
 
 <figure markdown>
 <p style="text-align: center">Protótipo Validado</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kj2utjtO5CY?si=zAVC70wgnUurgMrt" frameborder="0" allowfullscreen></iframe>
-
-**Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
+<figcaption>Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
 
 <figcaption></figcaption>
 </figure>
@@ -466,3 +572,4 @@ Abaixo está o protótipo validado:
 |  1.5   | 05/06/2025 | Adição dos vídeos de validação da Etapa 3 (Cenários e Casos de Uso) | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
 |  1.6   | 05/06/2025 | Adição dos vídeos de explicação dos Cenários | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
 |  1.7   | 01/07/2025 | Inclusão da validação presencial do protótipo de alta fidelidade, tabelas e vídeo de validação | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
+|  1.8   | 01/07/2025 | Adição dos videos de backlog e Historia de Usuário | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
