@@ -34,6 +34,10 @@ Ao longo do projeto houve diversos desafios, mas acredito que a maior facilidade
 
 ## *Dificuldades*
 
+Acredito que as dificuldades tiveram início no começo do semestre, quando não consegui me matricular na disciplina durante o período regular, apenas na matrícula extraordinária. Como consequência, acabei acumulando algumas faltas e precisei me empenhar significativamente para recuperar o conteúdo perdido. Em seguida, enfrentei o desafio das listas de exercícios, que demandavam bastante tempo para serem concluídas, levava, em média, de uma a duas horas por lista, sendo que, no início do semestre, eram disponibilizadas cerca de duas por semana. Isso consumia grande parte do meu tempo e dificultava minha concentração nas demais disciplinas.
+
+Outro obstáculo enfrentado ocorreu no início da execução do projeto, quando a integração e a comunicação do grupo ainda não estavam bem estabelecidas, o que resultou em uma participação menos ativa da minha parte nesse momento inicial. Além disso, questões logísticas também impactaram minha assiduidade: no período da manhã, devido ao início do horário de pico, há uma redução na disponibilidade de ônibus com destino ao Gama, o que, por vezes, me fez chegar em cima da hora ou até mesmo impossibilitou minha chegada.
+
 # **João Pedro**
 ## *Facilidades*
 ## *Dificuldades*
