@@ -1,11 +1,14 @@
 # Aplicativo Escolhido
 
-## Funções dos autores
+<center>
+    <b>Tabela 1:</b> Funções dos autores
+</center>
 
 | Nome | Função |
 |------|--------|
 |[João Pedro](https://github.com/johnaopedro)| Criação do documento; Adição do conteúdo da página |
 |[Amanda Cruz](https://github.com/mandicrz)| Revisão geral do documento |
+
 <center>
     Autor(es): 
     <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a><br>
@@ -43,7 +46,7 @@ Baseado nos critérios anteriores, e após instrução do professor, o grupo dec
 
 A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os [termos de uso](../planejamento/termosDeUso.md) da plataforma Cadastro Único para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que não havia uma cláusula específica que permitisse a análise do aplicativo ou qualquer menção à possibilidade de realizar engenharia reversa, tampouco que proibísse.
 
-Logo, o grupo decidiu realizar a análise do aplicativo por não haver proibição explicita de estudo do aplicativo.
+Logo, o grupo decidiu continuar com a análise do aplicativo por não haver proibição explicita de estudo do aplicativo.
 
 ## Rich Picture
 
