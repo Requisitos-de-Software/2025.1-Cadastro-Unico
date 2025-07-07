@@ -20,7 +20,8 @@
 Este documento reúne os vídeos de apresentações elaborado pelo grupo 04 por meio da Tabela 1.
 
 ## Apresentações
-Essa seção contém a tabela de apresentações.
+Essa seção contém a tabela de apresentações. Cada etapa corresponde a sua respectiva apresentação.
+A Apresentação I corresponde à etapa 1, a Apresentação II, à etapa 2 e assim por diante.
 
 
 <center>
