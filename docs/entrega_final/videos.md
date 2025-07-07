@@ -413,7 +413,7 @@ O NFR Framework (Non-Functional Requirements Framework) é um artefato utilizado
 <!-- <figure markdown>
 <iframe ...></iframe>
 <figcaption>Vídeo explicativo sobre o NFR Framework.</figcaption>
-</figure> --> /*ACHO Q N VAI TER '-'*/
+</figure> -->
 
 Para mais detalhes, acesse o documento completo: [NFR Framework](../modelagem/agil/NFR.md)
 
@@ -438,7 +438,7 @@ As validações foram realizadas em reuniões com usuários, conforme as tabelas
 | Julia Paulino     | Desenvolvedora                  |
 | Ryan Salles       | Desenvolvedor/Entrevistador     |
 
-<figcaption></figcaption>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
 </figure>
 
 <figure markdown>
@@ -450,21 +450,19 @@ As validações foram realizadas em reuniões com usuários, conforme as tabelas
 | João Pedro Costa  | Desenvolvedora/Secretário       |
 | Ryan Salles       | Desenvolvedor/Entrevistador     |
 
-<figcaption></figcaption>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
 </figure>
 
 Os vídeos das reuniões de validação estão disponíveis abaixo:
 
 <figure markdown>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mSUJdqnPAb4?si=2k0uWOnWp9peWcgL" title="Validação 1" frameborder="0" allowfullscreen></iframe>
-<figcaption>Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
 </figure>
 
 <figure markdown>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T9YJ_fNqxn4?si=XW0fHgTrpbb4Jtso" title="Validação 2" frameborder="0" allowfullscreen></iframe>
-<figcaption>Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
 </figure>
 
 Para mais detalhes, acesse o documento completo: [Histórias de Usuário](../modelagem/agil/historia_de_usuario.md)
@@ -489,18 +487,19 @@ A validação do backlog foi realizada em reunião com o Product Owner, conforme
 | João Pedro      | Desenvolvedor/Secretário   |
 | Ryan Salles     | Entrevistador/Desenvolvedor|
 
-<figcaption></figcaption>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
 </figure>
 
 O vídeo da reunião de validação está disponível abaixo:
 
 <figure markdown>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T9YJ_fNqxn4?si=XW0fHgTrpbb4Jtso" title="Validação Backlog" frameborder="0" allowfullscreen></iframe>
-<figcaption>Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
 </figure>
 
 Para mais detalhes, acesse o documento completo: [Backlog do Produto](../modelagem/agil/backlog.md)
+
+</details>
 
 </details>
 
