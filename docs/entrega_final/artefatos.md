@@ -889,59 +889,245 @@ Essa seção contém os artefatos referentes a entrega 4.
 #### [Backlog do Produto](../modelagem/agil/backlog.md) 
 Apresenta o backlog do produto
 
+| Nome | Função |
+|-------|---------|
+|[Ryan Salles](https://github.com/RA-Salles) | Criação do documento, elaboração de épicos |
+|[Gabriel Flores](https://github.com/RA-Salles) | elaboração dos épicos 3 e 4 |
 
+| Versão  | Data       | Descrição                                           | Autor                                               | Revisor                                              |
+| :-----: | :--------: | :-------------------------------------------------: | :-----------------------------------------:         | :-----------------------------------------:          |
+| 1.0     | 31/05/2025 | Criação do documento e inserção de informações base | [Ryan Salles](https://github.com/RA-Salles)         | [Gabriel Flores](https://github.com/Gabrielfcoelho)  |
+| 1.1     | 01/06/2025 | Elaboração das tabelas dos épicos 3 e 4             | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [Ryan Salles](https://github.com/RA-Salles)          |
+| 1.2     | 08/06/2025 | Alocando EU_21 na FT_08 e EU_22 na FT_03            | [Ryan Salles](https://github.com/RA-Salles)         | [João Pedro](https://github.com/johnaopedro)         |
 
 #### [Histórias de Usuário](../modelagem/agil/historia_de_usuario.md) 
 Apresenta as Histórias de Usuário
 
+| Nome                                                | Função                                                            | 
+|----------------------                               |----------------------------------------------------------------   |
+| [Amanda Cruz](https://github.com/mandicrz)          | Criação das Histórias de Usuário: 32 até 37; Enumeração de tabelas e padronização; Adição das fontes exigidas pelo professor                 |          
+| [João Pedro Costa](https://github.com/johnaopedro)  | Criação do documento; Adaptação do template das historias no md; Adição das histórias de usuário de 19 a 25; Adição das referências | 
+| [João Igor](https://github.com/JoaoPC10)            | Criação das Histórias de Usuário: 1 à 6                                                                                 |
+| [Julia Gabriela](https://github.com/JuliaGabP)      | Revisão geral; Criação de 6 histórias de usuário                                                                                    | 
+| [Gabriel Flores](https://github.com/Gabrielfcoelho) | Criação das histórias de usuário 20 até a 25                                                                                        |
+| [Ryan Salles](https://github.com/RA-Salles)         | Elaboração das Histórias de Usuário 26 à 31, Entrevista com o PO para validação, Elaboração inicial da Tabela X para rastreabilidade, Revisão   |
+
+| Versão |    Data    |        Descrição                                                                                             |                   Autor                             |                   Revisor                          |
+| :----: | :--------: | :----------------------:                                                                                     | :----------------------------------------:          | :-----------------------------------------:        |
+|  1.0   | 22/05/2025 | Criação do Documento                                                                                         | [João Pedro Costa](https://github.com/johnaopedro)  | [Julia Gabriela](https://github.com/JuliaGabP)     |
+|  1.1   | 22/05/2025 | Adaptação do template das histórias de usuário e adição de referências                                       | [João Pedro Costa](https://github.com/johnaopedro)  | [Julia Gabriela](https://github.com/JuliaGabP)     |
+|  1.2   | 26/05/2025 | Adição das minhas Histórias de Usuário                                                                       | [João Igor](https://github.com/JoaoPC10)            | [Julia Gabriela](https://github.com/JuliaGabP)     |
+|  1.3   | 28/05/2025 | Adição de Historias de Usuário de 19 a 25                                                                    | [João Pedro Costa](https://github.com/johnaopedro)  | [Julia Gabriela](https://github.com/JuliaGabP)     |
+|  1.4   | 29/05/2025 | Adição de 6 Histórias de Usuário, correção dos IDs                                                           | [Julia Gabriela](https://github.com/JuliaGabP)      | [João Pedro Costa](https://github.com/johnaopedro) |
+|  1.5   | 29/05/2025 | Adição da histórias de usuário 20 até 25                                                                     | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [João Pedro Costa](https://github.com/johnaopedro) |
+|  1.6   | 01/06/2025 | Adição da histórias de usuário 32 a 37                                                                       | [Amanda Cruz](https://github.com/mandicrz)          | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.7   | 01/06/2025 | Padronização do  documento e enumeração de tabelas                                                           | [Amanda Cruz](https://github.com/mandicrz)          | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.8   | 01/06/2025 | Atualização da numeração de tabelas, inserção de entrevista, tabela de rastreabilidade e estórias de 26 a 31 | [Ryan Salles](https://github.com/RA-Salles)         | [Amanda Cruz](https://github.com/mandicrz)         |
+|  1.9   | 01/06/2025 | Adição de imagens das referências | [Amanda Cruz](https://github.com/mandicrz)          | [Ryan Salles](https://github.com/RA-Salles) |
 
 
 #### [NFR Framework](../modelagem/agil/NFR.md)
 Apresenta o NFR Framework
 
+| Nome                 | Função                                                            | 
+|----------------------|----------------------------------------------------------------   |
+|[Amanda Cruz](https://github.com/mandicrz)| Correção de texto; Preenchimento da parte teórica e figuras; Explicação e SIG do NFR00; SIG e propagação de impactos do NFR01; | 
+|[Gabriel Flores](https://github.com/Gabrielfcoelho)| Criação da figura e das tabelas da NFR 03 | 
+|[João Igor](https://github.com/JoaoPC10)| Criação de tabelas e desenvolvimento do RNF16 no NFR | 
+|[João Pedro Costa](https://github.com/johnaopedro)| Desenvolvimento do RNF16 no NFR; SIG e propagação de impactos do NFR01 | 
+|[Julia Gabriela](https://github.com/JuliaGabP)|Criação do documento; Preenchimento da parte teórica; Explicação do requisito 07; Referências| 
+|[Ryan Salles](https://github.com/RA-Salles)| Elaboração da Tabela 4, Figura 5 e Descrição do RNF17, itens de desenvolvimento do NFR 02| 
 
+| Versão |    Data    |        Descrição         |                   Autor                    |                   Revisor                   |
+| :----: | :--------: | :----------------------: | :----------------------------------------: | :-----------------------------------------: |
+|  1.0   | 22/05/2025 |   Criação do Documento; estruturação e início do preenchimento de dados | [Julia Paulino](https://github.com/JuliaGabP) | [João Pedro Costa](https://github.com/johnaopedro) |
+|  1.1   | 22/05/2025 |   Preenchimento softgoal e criação dos cartões de especificação | [Julia Paulino](https://github.com/JuliaGabP) | [João Pedro Costa](https://github.com/johnaopedro)|
+|  1.2   | 27/05/2025 |   Complementação do documento | [Julia Paulino](https://github.com/JuliaGabP) | [João Pedro Costa](https://github.com/johnaopedro)|
+|  1.3  | 30/05/2025  |  Adaptação de Figura e criação das tabelas da NFR 03 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [Julia Paulino](https://github.com/JuliaGabP) |
+|  1.4  | 30/05/2025  |  Adições referentes ao RNF16 | [João Pedro Costa](https://github.com/johnaopedro)| [Julia Paulino](https://github.com/JuliaGabP) |
+|  1.5  | 30/05/2025  |  Correções de formatação para markdown | [Amanda Cruz](https://github.com/mandicrz)| [Julia Paulino](https://github.com/JuliaGabP) |
+|  1.6  | 30/05/2025  | Complemento da parte teórica | [Amanda Cruz](https://github.com/mandicrz)| [Julia Paulino](https://github.com/JuliaGabP) |
+|  1.7  | 30/05/2025  | Adição e complementos do NFR00 | [Amanda Cruz](https://github.com/mandicrz)| [Julia Paulino](https://github.com/JuliaGabP) |
+|  1.8  | 31/05/2025  | Adição e complementos do NFR01 | [Amanda Cruz](https://github.com/mandicrz)| [Julia Paulino](https://github.com/JuliaGabP) |
+|  1.9  | 01/06/2025  | Enumerando corretamente as tabelas | [Amanda Cruz](https://github.com/mandicrz)| [Gabriel Flores](https://github.com/Gabrielfcoelho) |
+|  2.0  | 01/06/2025 |   Inserção da priodade dos requisitos | [Julia Paulino](https://github.com/JuliaGabP) | [João Pedro Costa](https://github.com/johnaopedro)|
 
 ### Entrega V - Verificação & Validação
 Essa seção contém os artefatos referentes à entrega 5.
 
 Além de contar com a validação por meio da prototipagem, o grupo realizou 5
-inspeções para as etapas I e II.
+inspeções para as etapas I e II. Apesar de demais inspeções terem sido realizadas,
+como os documentos não foram elaborados, eles serão desconsiderados para os fins 
+desse catálogo
 
 #### [Protótipos](../prototipo/prototipo.md)
-Apresenta de forma geral todos os protótipos elaborados para validação
+Apresenta de forma geral todos os protótipos elaborados para validação.
+Apesar de os trabalhos de separação dos documentos terem iniciado, foi mantido
+enquanto o restante dos protótipos não fossem separados em seus respectivos
+documentos.
 
-#### [Protótipo - Gabriel Flores](../prototipo/prototipo_GF.md) 
+| Nome                                               | Função                                                            | 
+|----------------------                              |----------------------------------------------------------------   |
+|[Amanda Cruz](https://github.com/mandicrz)          | Criação do protótipo 6                                            | 
+|[Gabriel Flores](https://github.com/Gabrielfcoelho) | Criação dos protótipos 4 e 5                                      | 
+|[João Igor](https://github.com/JoaoPC10)            | Criação do protótipo 02 e 03                                      | 
+|[João Pedro Costa](https://github.com/johnaopedro)  | Criação dos protótipos 7 (Chat de Atendimento) e 8 (Agendar Atendimento); Correção de links| 
+|[Julia Gabriela](https://github.com/JuliaGabP)      | Criação do documento; Inserção da teoria e bibliografia; Protótipo 1| 
+|[Ryan Salles](https://github.com/RA-Salles)         | Criação dos protótipos 9 e 10, adição dos vídeos de validação, manutenção e revisão geral| 
+
+| Versão |    Data    |    Descrição                                                           |         Autor                                       |       Revisor                                       |
+| :----: | :--------: | :--------------:                                                       | :-------------------:                               | :----------------:                                  |
+|  1.0   | 12/06/2025 | Criando a pagina e adicionando teoria                                  | [Julia Gabriela](https://github.com/JuliaGabP)      | [João Pedro](https://github.com/johnaopedro)        |
+|  1.1   | 18/06/2025 | Adição dos protótipos 4 e 5                                            | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [João Igor](https://github.com/JoaoPC10)            |
+|  1.2   | 19/06/2025 | Adição dos protótipos 6                                                | [Amanda Cruz](https://github.com/mandicrz)          | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
+|  1.3   | 20/06/2025 | Adição dos protótipos 7 e 8                                            | [João Pedro Costa](https://github.com/johnaopedro)  | [Ryan Salles](https://github.com/RA-Salles)         |
+|  1.4   | 22/06/2025 | Correção de links                                                      | [João Pedro Costa](https://github.com/johnaopedro)  | [Ryan Salles](https://github.com/RA-Salles)         |
+|  1.5   | 20/06/2025 | Adição dos protótipos 9 e 10, Inserção dos vídeos de validação         | [Ryan Salles](https://github.com/RA-Salles)         | [João Pedro Costa](https://github.com/johnaopedro)  |
+
+
+
+
+#### [Protótipos - Gabriel Flores](../prototipo/prototipo_GF.md) 
 Apresenta os protótipos de Gabriel Flores
 
+| Nome                                               | Função                                                                                  | 
+|----------------------                              |----------------------------------------------------------------                         |
+|[Gabriel Flores](https://github.com/Gabrielfcoelho) | Criação dos protótipos Upload de documentos e Notificação de pendências ou atualizações | 
+|[João Igor](https://github.com/JoaoPC10)            | Revisão geral                                                                           | 
 
-#### [Protótipo - João Igor](../prototipo/prototipo_JC.md) 
+| Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
+| :----: | :--------: | :--------------: | :-------------------: | :----------------: |
+|  1.0   | 04/07/2025 | Desenvolvimento das informações da pagina | [Gabriel Flores](https://github.com/Gabrielfcoelho)    | [João Igor](https://github.com/JoaoPC10) |
+
+
+#### [Protótipos - João Igor](../prototipo/prototipo_JC.md) 
 Apresenta os protótipos de João Igor
 
-#### [Protótipo - João Pedro ](../prototipo/prototipo_JP.md) 
+| Nome                                               | Função                                                            | 
+|----------------------                              |----------------------------------------------------------------   |
+|[João Igor](https://github.com/JoaoPC10)  | Criação dos protótipos Filtragem de benefícios e  Atualizar dados cadastrais | 
+|[Gabriel Flores](https://github.com/Gabrielfcoelho)         | Revisão geral| 
+
+| Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
+| :----: | :--------: | :--------------: | :-------------------: | :----------------: |
+|  1.0   | 04/07/2025 | Criação e Desenvolvimento das informações da página |  [João Igor](https://github.com/JoaoPC10)    | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
+
+#### [Protótipos - João Pedro ](../prototipo/prototipo_JP.md) 
 Apresenta os protótipos de João Pedro
 
-#### [Protótipo - Ryan Salles](../prototipo/prototipo_RS.md) 
+| Nome                                               | Função                                                            | 
+|----------------------                              |----------------------------------------------------------------   |
+|[João Pedro Costa](https://github.com/johnaopedro)  | Criação dos protótipos Chat de Atendimento e Agendar Atendimento; Correção de links| 
+|[Ryan Salles](https://github.com/RA-Salles)         | Revisão geral| 
+
+| Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
+| :----: | :--------: | :--------------: | :-------------------: | :----------------: |
+|  1.0   | 01/07/2025 | Desenvolvimento das informações da pagina | [João Pedro Costa](https://github.com/johnaopedro)     | [Ryan Salles](https://github.com/RA-Salles) |
+| 1.1   | 01/07/2025 | Adição do protótipo de agendamento e chat de atendimento | [João Pedro Costa](https://github.com/johnaopedro)     | [Ryan Salles](https://github.com/RA-Salles) |
+| 1.2   | 01/07/2025 | Adição da bibliografia| [João Pedro Costa](https://github.com/johnaopedro)     | [Ryan Salles](https://github.com/RA-Salles) |
+
+
+#### [Protótipos - Ryan Salles](../prototipo/prototipo_RS.md) 
 Apresenta os protótipos de Ryan Salles
+
+| Nome                                               | Função                                                                              | 
+|----------------------                              |----------------------------------------------------------------                     |
+|[João Pedro Costa](https://github.com/johnaopedro)  | Revisão Geral, Construção do modelo de documento                                    | 
+|[Ryan Salles](https://github.com/RA-Salles)         | Criação dos protótipos, adaptação do modelo para uso com protótipos chatbot e Voz   |
+
+| Versão |    Data    |    Descrição                                       |         Autor                                      |       Revisor                                      |
+| :----: | :--------: | :--------------:                                   | :-------------------:                              | :----------------:                                 |
+|  1.0   | 01/07/2025 | Desenvolvimento do modelo de documento             | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.1   | 06/07/2025 | Modificação do modelo para uso com outro protótipo | [Ryan Salles](https://github.com/RA-Salles)        | [João Pedro Costa](https://github.com/johnaopedro) |
+
+
 
 #### [Inspeção de Fagan - Etapa 1](../inspecoes/inspecao_de_fagan/etapa1.md) 
 
+| Nome                                              | Função                                                                  | 
+|---------------------------------------------------|-------------------------------------------------------------------------|
+|[João Pedro Costa](https://github.com/johnaopedro) |Criação da página; Desenvolvimento da introdução; Criação das tabelas; Criação do template da inspeção pelo metodo de Fagan; Desenvolvimento de todas as inspeções. | 
+|[Ryan Salles](https://github.com/RA-Salles)        |Revisão geral, manutenção de tabelas, refatorção, adição de informações.                                                          | 
+
+| Versão |    Data    | Descrição  |   Autor  |  Revisor  |
+| :----: | :--------: | :---------:| :-------:| :-------: |
+|  1.0   | 21/06/2025 | Criação do Documento                                                             | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.1   | 21/06/2025 | Desenvolvimento da introdução                                                    | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.2   | 21/06/2025 | Criação do template da inspeção pelo metodo de Fagan e Criação das tabelas       | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.3   | 21/06/2025 | Desenvolvimento de todas as inspeções dos artefatos da etapa 1                   | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  2.0   | 22/06/2025 | Refatoração do documento, inserção de informações segundo planejamento executado | [Ryan Salles](https://github.com/RA-Salles)        | [João Pedro Costa](https://github.com/johnaopedro) |
+
 #### [Inspeção de Fagan - Etapa 2](../inspecoes/inspecao_de_fagan/etapa2.md)
+
+| Nome                                              | Função                                                                  | 
+|---------------------------------------------------|-------------------------------------------------------------------------|
+|[João Pedro Costa](https://github.com/johnaopedro) | Criação da página; Desenvolvimento da introdução; Criação das tabelas; Criação do template da inspeção pelo metodo de Fagan; Desenvolvimento de todas as inspeções. | 
+|[Ryan Salles](https://github.com/RA-Salles)        | Revisão geral, manutenção de tabelas, refatorção, adição de informações.                                                          | 
+
+| Versão |    Data    | Descrição  |   Autor  |  Revisor  |
+| :----: | :--------: | :---------:| :-------:| :-------: |
+|  1.0   | 21/06/2025 | Criação do Documento                                                             | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.1   | 21/06/2025 | Desenvolvimento da introdução                                                    | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.2   | 21/06/2025 | Criação do template da inspeção pelo metodo de Fagan e Criação das tabelas       | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  1.3   | 21/06/2025 | Desenvolvimento de todas as inspeções dos artefatos da etapa 1                   | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
+|  2.0   | 22/06/2025 | Refatoração do documento, inserção de informações segundo planejamento executado | [Ryan Salles](https://github.com/RA-Salles)        | [João Pedro Costa](https://github.com/johnaopedro) |
 
 
 ### Entrega VI - Rastreabilidade
 Essa seção contém os artefatos referentes à entrega 6. 
 
-[text](../rastreabilidade/matriz_geral.md) 
-[text](../rastreabilidade/pos-rastreabilidade.md)
+#### [Matriz Geral de Rastreabilidade](../rastreabilidade/matriz_geral.md) 
+
+| Nome                                              | Função                                                            | 
+|----------------------                             |----------------------------------------------------------------   |
+|[Amanda Cruz](https://github.com/mandicrz)         || 
+|[Gabriel Flores](https://github.com/Gabrielfcoelho)|| 
+|[João Igor](https://github.com/JoaoPC10)           || 
+|[João Pedro Costa](https://github.com/johnaopedro) | Adição dos novos requisitos; Correção de erros; Revisão Geral| 
+|[Julia Gabriela](https://github.com/JuliaGabP)     |Criação do documento; Preenchimento da parte teórica; Criação da Matriz Geral; Inserção da bibliografia| 
+|[Ryan Salles](https://github.com/RA-Salles)        | Revisão geral, manutenção e ajustes, atualização do documento para cascata em requisitos elicitados |
+
+| Versão | Data | Descrição  | Autor        | Revisor |
+| :-----: | :----: | :----------: | :------------: | :--------: |
+| 1.0    | 05/06/2025 | Criação do documento e preenchimento do mesmo | [Julia Gabriela](https://github.com/JuliaGabP)                                                   | [João Pedro Costa](https://github.com/johnaopedro) |
+| 1.1    | 07/06/2025 | Adição de novos requisitos e revisão geral    | [João Pedro Costa](https://github.com/johnaopedro) e [Ryan Salles](https://github.com/RA-Salles) | [Julia Gabriela](https://github.com/JuliaGabP)     |
+| 1.2    | 08/06/2025 | Atualização segundo requisitos elicitados     | [Ryan Salles](https://github.com/RA-Salles)                                                      | [João Pedro Costa](https://github.com/johnaopedro) |
+
+#### [Pós-Rastreabilidade](../rastreabilidade/pos-rastreabilidade.md)
+
+| Nome                                             | Função      | 
+|----------------------                            |-------------|
+|[Amanda Cruz](https://github.com/mandicrz)        | Rastreabilidade dos requisitos não-funcionais 03 ao 16 |
+|[João Pedro Costa](https://github.com/johnaopedro)| Criação do documento; Desenvolvimento da pós-rastreabilidade; Modelagem e configuração das tabelas; Desenvolvimento da introdução e metodologia; Adição de todos os requisitos do projeto; Adição dos hyperlinks; Inserção de informação de RF1 a 40 e parcial de RNF 1 a 18; Revisão Parcial| 
+|[Ryan Salles](https://github.com/RA-Salles)       | Revisão geral, Inserção de informação RF1-14 e RNF 17 e 18  |
+|[Julia Gabriela](https://github.com/JuliaGabP)    | Revisão geral                                               |
+|[João Igor](https://github.com/JoaoPC10)          | Alocação da rastreabilidade dos requisitos 15, 16 e 19 ao 28|
+|[Gabriel Flores](https://github.com/Gabrielfcoelho) | Rastreabilidade dos requisitos funcionais 29 ao 40 e não funcionais 1 e 2 |
+
+| Versão |    Data    | Descrição                                               |   Autor                                            |  Revisor                                       |
+| :----: | :--------: | :---------:                                             | :-------:                                          | :-------:                                      |
+|  1.0   | 07/06/2025 | Criação do Documento                                    | [João Pedro Costa](https://github.com/johnaopedro) | [Julia Gabriela](https://github.com/JuliaGabP) |
+|  1.1   | 07/06/2025 | Desenvolvimento da introdução e metodologia             | [João Pedro Costa](https://github.com/johnaopedro) | [Julia Gabriela](https://github.com/JuliaGabP) |
+|  1.2   | 07/06/2025 | Desenvolvimento das tabelas e formatação                | [João Pedro Costa](https://github.com/johnaopedro) | [Julia Gabriela](https://github.com/JuliaGabP) |
+|  1.3   | 07/06/2025 | Adição de todos os requisitos do projeto                | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)    | 
+|  1.4   | 07/06/2025 | Hyperlinks indicando a rastreabilidade e inserção de informação de todos requisitos funcionais e não funcionais   | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)    |
+|  1.5   | 08/06/2025 | Preenchimento das Tabelas   | [Amanda Cruz](https://github.com/mandicrz) | [Ryan Salles](https://github.com/RA-Salles)    |
+|  1.6   | 08/06/2025 | Preenchimento das Tabelas   | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [João Igor](https://github.com/JoaoPC10)    |
+
+
+
 
 ## Conclusão
 
-A equipe 4 foi capaz de entregar uma quantidade razoável de artefatos.
+O ato de catalogar cada artefato permite ao(s) autor(es) um certo ato reflexivo ao observar o progresso 
+obtido ao longo do semestre, seja pelas falhas ou sucessos.
+
+Não obstante, a equipe 4 foi capaz de entregar uma quantidade considerável de artefatos.
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição                  |       Autor(es)                                |     Revisor(es)                                     |
-| :-----:| :--------: | :------------------:            | :-------------------:                          | :-----------------:                                 |
-|  1.0   | 09/04/2025 | Elaboração inicial do documento | [Ryan](https://github.com/RA-Salles)           | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
+| Versão |    Data    |      Descrição                                                                           |       Autor(es)                                |     Revisor(es)                                     |
+| :-----:| :--------: | :------------------:                                                                     | :-------------------:                          | :-----------------:                                 |
+|  1.0   | 09/04/2025 | Elaboração inicial do documento. Catálogo de todos os artefatos elaborados até o momento | [Ryan](https://github.com/RA-Salles)           | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
 
 
