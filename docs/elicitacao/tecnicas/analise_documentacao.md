@@ -1,27 +1,37 @@
 # Análise de documentação
 
+## Funções dos autores
+
+| Nome                                              | Função                                                                      | 
+|---------------------------------------------------|-----------------------------------------------------------------------------|
+|[Gabriel](https://github.com/Gabrielfcoelho)       |Revisão geral                                                                |
+|[João Pedro Costa](https://github.com/johnaopedro) |Criação do documento; correções gerais; Execução da técnica                  |
+|[Julia Gabriela](https://github.com/JuliaGabP)     |Criação do documento; tabela de funções; revisão geral; Execução da Técnica  | 
+|[Ryan Salles](https://github.com/RA-Salles)        |Criação do documento; formatação e padronização; Manutenção e Ajustes        |
+
+<center>
+    Autor(es): 
+    <a href="https://github.com/JuliaGabP" target="_blank">Julia Gabriela</a>,
+    <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
+</center>
+
 ## Introdução
 Esse documento apresenta a análise de documentação realizada pelo grupo 4 com o propósito de compreender e elicitar os requisitos do aplicativo
 cadastro único. 
 
 ## Metodologia
-Para cada documento examinado, serão buscadas informações novas sobre o usuário, a situação onde o sistema deverá operar e quais operações ele deveria realizar. Os documentos serão resumidos e, com base nas principais informações obtidas, serão elicitados requisitos seguindo o modelo da Tabela 1.
+Para cada documento examinado, serão buscadas informações novas sobre o usuário, a situação onde o sistema deverá operar e quais operações ele deveria realizar.
+Os documentos serão resumidos e, com base nas principais informações obtidas, serão elicitados requisitos. Os requisitos elicitados serão adicionados
+às tabelas 1 e 2.
 
-<center> <b>Tabela 1:</b> Requisitos de exemplo </center>
-  
-| **ID** | **Requisito Exemplo** | **Descrição** |
-|:------:|:-----------------------:|:-------------:|
-| RE1    | Realizar uma determinada operação | O usuário é capaz de realizar a operação dentro do sistema |
+Caso o documento observado elicite um requisito que já existe no documento de [Requisitos Elicitados](../requisitos_elicitados.md), 
+ele será desconsiderado por redundância, dado que múltiplos documentos podem tratar de um mesmo assunto ou revelar as mesmas informações.
 
-<center>
- Autor(a): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
-</center>
-
-Com base em cada requisito elicitado, os autores separarão os requisitos em funcionais e não funcionais. Caso o documento observado elicite um requisito que já existe na lista, ele será desconsiderado por redundância, dado que múltiplos documentos podem tratar de um mesmo assunto ou revelar as mesmas informações. 
+Caso o requisito elicitado pela análise já tenha sido observado por outra técnica (como, por exemplo, uma entrevista), 
+o requisito será agrupado na forma de uma nova fonte para esse requisito.
 
 ## Documentos analisados
 Essa seção contém resumos dos documentos examinados para os fins de subsequente elicitação. 
-
 
 <!--done!-->
 ### [Cadastro Único dos Programas Sociais - CadÚnico](https://ces.ibge.gov.br/base-de-dados/metadados/mds/cadastro-unico-dos-programas-sociais-cadunico.html)
@@ -54,29 +64,30 @@ Alguns dos principais benefícios do Cadastro Único são, Bolsa Família, Pé d
 Essa seção contém os requisitos elicitados por consequência da análise da documentação. Os requisitos serão apresentados por meio das Tabelas 2 e 3, que contêm os requisitos funcionais e não-funcionais, respectivamente.
 Cada requisito apresentado possui um código interno de elicitação e um código geral, permitindo rastreabilidade. Os códigos internos ao documento não possuirão diferenciação entre funcional ou não-funcional.
 
-Legenda - Tabela 2:
+Legenda - Tabela 1:
  
 - RFx: Requisitos Funcionais nºx.
 - ADx: Requisito elicitado pela análise de documentação nºX 
 
-<center> <b>Tabela 2:</b> Requisitos Funcionais </center>
+<center> 
+    <b>Tabela 1:</b> Requisitos Funcionais
+</center>
 
-| **ID** | **RF** | **Requisito Funcional**             | **Descrição**                                                                                                                                                                              |
-| :----: | :----: | :---------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| AD01   | RF01   | Cadastro de Famílias                | Permitir o cadastro de famílias com renda mensal de até meio salário mínimo por pessoa ou vinculadas a programas sociais.                                                                  |
-| AD02   | RF02   | Cadastro de Pessoas                 | Registrar informações pessoais, como dados de identificação, documentação, frequência escolar, grau de instrução, entre outros.                                                            |
-| AD03   | RF03   | Cadastro de Domicílios              | Registrar características do domicílio, como tipo de construção, abastecimento de água, iluminação, escoamento sanitário, entre outros.                                                    |
-| AD04   | RF04   | Cadastro de Agricultores Familiares | Registrar informações sobre posse de terra, atividade primária, contratação de mão de obra e composição da renda.                                                                          |
-| AD05   | RF05   | Atualização de Dados                | Permitir a atualização diária dos dados das famílias cadastradas.                                                                                                                          |
-| AD06   | RF06   | Processamento de Dados              | Transmitir os dados coletados para a CAIXA, processá-los e atribuir um Número de Identificação Social (NIS) único para cada pessoa cadastrada.                                             |
-| AD07   | RF07   | Correção de Inconsistências         | Permitir a correção de inconsistências detectadas no processamento e retransmissão dos dados.                                                                                              |
-| AD08   | RF08   | Consulta de Dados                   | Permitir a consulta de dados cadastrais, situação de benefícios e ações de gestão de benefícios por meio do NIS.                                                                           |
-| AD09   | RF09   | Relatórios e Divulgação             | Gerar relatórios anuais com o perfil das famílias beneficiárias e disponibilizar dados para instituições de pesquisa e órgãos de governo mediante acordos e termos de responsabilidade.    |
-| AD10   | RF10   | Formulários de Coleta               | Implementar formulários principais e suplementares para coleta de dados, abrangendo características de domicílios, famílias, pessoas, vinculação a programas e pessoas em situação de rua. |
-| AD11   | RF11   | Cadastro MEI                        | Permitir que, ao cadastrar um usuário, o cadastro possa especificar que o usuário é um MEI.                                                                                                |
-| AD12   | RF12   | Informações MEI                     | Conter seção de informações sobre microempreendedorismo individual.                                                                                                                        |
-| AD13   | RF13   | Personalização MEI                  | Personalização de conteúdos da seção MEI de acordo com o setor de atuação do usuário registrado e/ou região do território brasileiro onde atua.                                            |
-| AD14   | RF39   | Integração MEI                      | Permitir que o sistema converse com demais sistemas para MEIs                                                                                                                              |
+| **ID**                  | **RF** | **Requisito Funcional**             | **Descrição**                                                                                                                                                                              |
+| :----:                  | :----: | :---------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a id="ad01"></a>AD01   | [RF01](../requisitos_elicitados.md#rf01)   | Cadastro de Famílias                | Permitir o cadastro de famílias com renda mensal de até meio salário mínimo por pessoa ou vinculadas a programas sociais.                                                                  |
+| <a id="ad02"></a>AD02   | [RF02](../requisitos_elicitados.md#rf02-v2)   | Cadastro de Pessoas                 | Registrar informações pessoais, como dados de identificação, documentação, frequência escolar, grau de instrução, entre outros.                                                            |
+| <a id="ad03"></a>AD03   | [RF03](../requisitos_elicitados.md#rf03)   | Cadastro de Domicílios              | Registrar características do domicílio, como tipo de construção, abastecimento de água, iluminação, escoamento sanitário, entre outros.                                                    |
+| <a id="ad04"></a>AD04   | [RF04](../requisitos_elicitados.md#rf04)   | Cadastro de Agricultores Familiares | Registrar informações sobre posse de terra, atividade primária, contratação de mão de obra e composição da renda.                                                                          |
+| <a id="ad05"></a>AD05   | [RF05](../requisitos_elicitados.md#rf05)   | Atualização de Dados                | Permitir a atualização diária dos dados das famílias cadastradas.                                                                                                                          |
+| <a id="ad06"></a>AD06   | [RF06](../requisitos_elicitados.md#rf06)   | Processamento de Dados              | Transmitir os dados coletados para a CAIXA, processá-los e atribuir um Número de Identificação Social (NIS) único para cada pessoa cadastrada.                                             |
+| <a id="ad07"></a>AD07   | [RF07](../requisitos_elicitados.md#rf07)   | Correção de Inconsistências         | Permitir a correção de inconsistências detectadas no processamento e retransmissão dos dados.                                                                                              |
+| <a id="ad08"></a>AD08   | [RF08](../requisitos_elicitados.md#rf08)   | Consulta de Dados                   | Permitir a consulta de dados cadastrais, situação de benefícios e ações de gestão de benefícios por meio do NIS.                                                                           |
+| <a id="ad09"></a>AD09   | [RF09](../requisitos_elicitados.md#rf09)   | Relatórios e Divulgação             | Gerar relatórios anuais com o perfil das famílias beneficiárias e disponibilizar dados para instituições de pesquisa e órgãos de governo mediante acordos e termos de responsabilidade.    |
+| <a id="ad10"></a>AD10   | [RF10](../requisitos_elicitados.md#rf10)   | Formulários de Coleta               | Implementar formulários principais e suplementares para coleta de dados, abrangendo características de domicílios, famílias, pessoas, vinculação a programas e pessoas em situação de rua. |
+| <a id="ad11"></a>AD11   | [RF11](../requisitos_elicitados.md#rf11)   | Cadastro MEI                        | Permitir que, ao cadastrar um usuário, o cadastro possa especificar que o usuário é um MEI.                                                                                                |
+| <a id="ad12"></a>AD12   | [RF12](../requisitos_elicitados.md#rf12)   | Informações MEI                     | Conter seção de informações sobre microempreendedorismo individual.                                                                                                                        |
+| <a id="ad13"></a>AD13   | [RF13](../requisitos_elicitados.md#rf13)   | Personalização MEI                  | Personalização de conteúdos da seção MEI de acordo com o setor de atuação do usuário registrado e/ou região do território brasileiro onde atua.                                            |
 
 <center>
     Autor(es): <a href="https://github.com/johnaopedro" target="_blank">João Pedro</a>, <a href="https://github.com/jvopBR" target="_blank">João Merlin</a>, <a href="https://github.com/JuliaGabP" target="_blank">Julia Gabriela</a>
@@ -86,23 +97,27 @@ Legenda - Tabela 2:
 </br>
 </br>
 
-Legenda - Tabela 3:
+Legenda - Tabela 2:
 
 - RNFx : Requisitos Não-Funcional nºx.
 - ADx: Requisito elicitado pela análise de documentação nºX 
-<center> <b>Tabela 3:</b> Requisitos Não Funcionais </center>
 
-| **ID**| **RF** | **Requisito Não Funcional**              | **Descrição**                                                                                                                                                                        |
-| :---: | :----: |:---------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| AD15  | RNF01  | Desempenho                               | Garantir o processamento dos dados e retorno aos municípios em até 48 horas.                                                                                                         |
-| AD16  | RNF02  | Segurança                                | Garantir a confidencialidade dos dados por meio de termos de responsabilidade e acordos de cooperação técnica, além de implementar mecanismos de autenticação para acesso aos dados. |
-| AD17  | RNF03  | Escalabilidade                           | Suportar o cadastro e atualização de dados de até 19,5 milhões de famílias.                                                                                                          |
-| AD18  | RNF04  | Conformidade Legal                       | Atender às regulamentações definidas pela Senarc e portarias relacionadas.                                                                                                           |
-| AD19  | RNF05  | Acessibilidade                           | Garantir que o sistema seja acessível para operadores municipais e estaduais.                                                                                                        |
-| AD20  | RNF06  | Disponibilidade                          | Garantir que o sistema esteja disponível para uso diário.                                                                                                                            |
-| AD21  | RNF07  | Compatibilidade com Aplicativo Off-line  | O sistema deve ser compatível com o aplicativo off-line utilizado pelos municípios para coleta e digitação de dados.                                                                 |
-| AD22  | RNF08  | Transmissão via Conectividade Social     | A transmissão de dados deve ser realizada exclusivamente por meio da ferramenta Conectividade Social da CAIXA.                                                                       |
-| AD23  | RNF09  | Acesso Restrito                          | O acesso à base de dados deve ser restrito a instituições autorizadas e mediante assinatura de termos específicos.                                                                   |
+<center> 
+    <b>Tabela 2:</b> Requisitos Não Funcionais 
+</center>
+
+| **ID**                 | **RF**                                         | **Requisito Não Funcional**              | **Descrição**                                                                                                                                                                        |
+| :--------------------: | :--------------------------------------------: | :--------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a id="ad14"></a>AD14  | [RNF19](../requisitos_elicitados.md#rnf19)     | Integração MEI                           | Permitir que o sistema converse com demais sistemas para MEIs                                                                                                                        |
+| <a id="ad15"></a>AD15  | [RNF01](../requisitos_elicitados.md#rnf01)     | Desempenho                               | Garantir o processamento dos dados e retorno aos municípios em até 48 horas.                                                                                                         |
+| <a id="ad16"></a>AD16  | [RNF02](../requisitos_elicitados.md#rnf02)     | Segurança                                | Garantir a confidencialidade dos dados por meio de termos de responsabilidade e acordos de cooperação técnica, além de implementar mecanismos de autenticação para acesso aos dados. |
+| <a id="ad17"></a>AD17  | [RNF03](../requisitos_elicitados.md#rnf03)     | Escalabilidade                           | Suportar o cadastro e atualização de dados de até 19,5 milhões de famílias.                                                                                                          |
+| <a id="ad18"></a>AD18  | [RNF04](../requisitos_elicitados.md#rnf04)     | Conformidade Legal                       | Atender às regulamentações definidas pela Senarc e portarias relacionadas.                                                                                                           |
+| <a id="ad19"></a>AD19  | [RNF05](../requisitos_elicitados.md#rnf05-v2)  | Acessibilidade                           | Garantir que o sistema seja acessível para operadores municipais e estaduais.                                                                                                        |
+| <a id="ad20"></a>AD20  | [RNF06](../requisitos_elicitados.md#rnf06)     | Disponibilidade                          | Garantir que o sistema esteja disponível para uso diário.                                                                                                                            |
+| <a id="ad21"></a>AD21  | [RNF07](../requisitos_elicitados.md#rnf07)     | Compatibilidade com Aplicativo Off-line  | O sistema deve ser compatível com o aplicativo off-line utilizado pelos municípios para coleta e digitação de dados.                                                                 |
+| <a id="ad22"></a>AD22  | [RNF08](../requisitos_elicitados.md#rnf08)     | Transmissão via Conectividade Social     | A transmissão de dados deve ser realizada exclusivamente por meio da ferramenta Conectividade Social da CAIXA.                                                                       |
+| <a id="ad23"></a>AD23  | [RNF09](../requisitos_elicitados.md#rnf09)     | Acesso Restrito                          | O acesso à base de dados deve ser restrito a instituições autorizadas e mediante assinatura de termos específicos.                                                                   |
 <center>
     Autor(es): <a href="https://github.com/johnaopedro" target="_blank">João Pedro</a>, <a href="https://github.com/jvopBR" target="_blank">João Merlin</a>, <a href="https://github.com/JuliaGabP" target="_blank">Julia Gabriela</a>
 </center>
@@ -115,7 +130,7 @@ Legenda - Tabela 3:
 
 Uma entrevista presencial com um usuário foi realizada para fins de validação. As informações sobre a entrevista são apresentadas por meio das Tabelas 4 e 5. 
 
-<center> <b> Tabela 4:</b> Informações da Entrevista </center>
+<center> <b> Tabela 3:</b> Informações da Entrevista </center>
 
 | Campo   | Informação                                               |
 | :-----: | :------------------------------------------------------: |
@@ -127,7 +142,7 @@ Uma entrevista presencial com um usuário foi realizada para fins de validação
 <center> <b>Autor(es)</b> <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a> </center> 
 
 
-<center> <b> Tabela 5:</b> Participantes da Entrevista </center>
+<center> <b> Tabela 4:</b> Participantes da Entrevista </center>
 
 | Nome                                         | Função                   |
 | :------------------------------------------: | :----------------------: |
@@ -139,7 +154,7 @@ Uma entrevista presencial com um usuário foi realizada para fins de validação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A5TdV51y-e4?si=nz5P5w3P8e7Ws9-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Referencias
+# Bibliografia
 > Requirements Elicitation. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 7, p. 128-129. ISBN 0735679665. Acesso em: 1 de Maio 2025.
 
 > INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Cadastro Único dos Programas Sociais - CadÚnico. Disponível em: <https://ces.ibge.gov.br/base-de-dados/metadados/mds/cadastro-unico-dos-programas-sociais-cadunico.html>. Acesso em: 1 de Maio 2025.
@@ -270,10 +285,12 @@ Uma entrevista presencial com um usuário foi realizada para fins de validação
 
 # Histórico de Versão
 
-| Versão | Data | Descrição  | Autor(es) | Revisor(es) |
-| :-----: | :----: | :----------: | :------------: | :--------: |
-| 1.0 | 02/05/2025 | Criação do documento | [João Pedro](https://github.com/johnaopedro), [João Merlin](https://github.com/jvopBR), [Julia Gabriela](https://github.com/JuliaGabP), [Ryan Salles](https://github.com/RA-Salles)| [Gabriel](https://github.com/Gabrielfcoelho) |
-| 1.1 | 02/05/2025 | Formatação, Padronização | [Ryan Salles](https://github.com/RA-Salles) | [Gabriel](https://github.com/Gabrielfcoelho) |
-| 1.2 | 04/05/2025 | Adicionando links e corrigindo tabelas | [João Pedro Costa](https://github.com/johnaopedro)                   | [Ryan Salles](https://github.com/RA-Salles)                      |
-| 1.3 | 07/05/2025 | Adicionando imagens e video | [João Pedro Costa](https://github.com/johnaopedro)                   | [Julia Gabriela](https://github.com/JuliaGabP)                      |
-| 1.4 | 08/05/2025 | Adicionando gravação da validação | [Ryan Salles](https://github.com/RA-Salles) | [João Pedro Costa](https://github.com/johnaopedro) |
+| Versão  | Data       | Descrição                                                          | Autor(es)                                                                                                                                                                           | Revisor(es)                                        |
+| :-----: | :----:     | :----------:                                                       | :------------:                                                                                                                                                                      | :--------:                                         |
+| 1.0     | 02/05/2025 | Criação do documento                                               | [João Pedro](https://github.com/johnaopedro), [João Merlin](https://github.com/jvopBR), [Julia Gabriela](https://github.com/JuliaGabP), [Ryan Salles](https://github.com/RA-Salles) | [Gabriel](https://github.com/Gabrielfcoelho)       |
+| 1.1     | 02/05/2025 | Formatação, Padronização                                           | [Ryan Salles](https://github.com/RA-Salles)                                                                                                                                         | [Gabriel](https://github.com/Gabrielfcoelho)       |
+| 1.2     | 04/05/2025 | Adicionando links e corrigindo tabelas                             | [João Pedro Costa](https://github.com/johnaopedro)                                                                                                                                  | [Ryan Salles](https://github.com/RA-Salles)        |
+| 1.3     | 07/05/2025 | Adicionando imagens e video                                        | [João Pedro Costa](https://github.com/johnaopedro)                                                                                                                                  | [Julia Gabriela](https://github.com/JuliaGabP)     |
+| 1.4     | 08/05/2025 | Adicionando gravação da validação                                  | [Ryan Salles](https://github.com/RA-Salles)                                                                                                                                         | [João Pedro Costa](https://github.com/johnaopedro) |
+| 1.5     | 25/06/2025 | Tabela de funções                                                  | [Julia Gabriela](https://github.com/JuliaGabP)                                                                                                                                      | [João Pedro Costa](https://github.com/johnaopedro) |
+| 1.6     | 05/07/2025 | Manutenção da Tabela de funções, exclusão de metodologia duplicada | [Ryan Salles](https://github.com/RA-Salles)                                                                                                                                         | [João Pedro Costa](https://github.com/johnaopedro) |
