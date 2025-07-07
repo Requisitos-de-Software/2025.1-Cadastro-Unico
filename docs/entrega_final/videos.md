@@ -4,12 +4,12 @@
 <figure markdown>
 <p style="text-align: center">Tabela 1 - Função dos autores</p>
 
-| Nome                                               | Função                                                            | 
-|----------------------                              |----------------------------------------------------------------   |
-| [Amanda Cruz](https://github.com/mandicrz)         | Revisão dos itens criados por João Pedro                          | 
-| [João Pedro Costa](https://github.com/johnaopedro) | Criação do modelo da estrutura do documento; Adição dos videos das técnicas de elicitação de introspecção e análise de documentos; Correção na área de priorização dos links e informações; Adição dos videos de cenarios, casos de uso e validação do protótipo de alta fidelidade; Adição do videos de Backlog e História de Usuário |
-| [João Igor](https://github.com/johnaopedro)        | Adição dos videos, e demais informações, das técnicas de priorização: MoSCoW e Three Level Scale| 
-| [Ryan Salles](https://github.com/RA-Salles)        | Reestruturação do documento segundo padrão | 
+| Nome                                               | Função                                                                                           | 
+|----------------------                              |----------------------------------------------------------------                                  |
+| [Amanda Cruz](https://github.com/mandicrz)         | Revisão dos itens criados por João Pedro                                                         | 
+| [João Pedro Costa](https://github.com/johnaopedro) | Elaboração do documento inicial, preparo dos vídeos                                              |
+| [João Igor](https://github.com/johnaopedro)        | Elaboração do documento inicial                                                                  | 
+| [Ryan Salles](https://github.com/RA-Salles)        | Reestruturação do documento segundo padrão de entrega final                                      |  
 
 <!-- I f'd up. srry -->
 
@@ -38,9 +38,7 @@ A Apresentação I corresponde à etapa 1, a Apresentação II, à etapa 2 e ass
 | Apresentação VI  | <iframe width="560" height="315" src="https://www.youtube.com/embed/li5ScdW9Q1I?si=g0VHZ_eU5cu5-Znu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan             |
 
 <center >
-    <b>Autor(es):</b> <a href="https://github.com/johnaopedro" target="_blank"> João Pedro </a>,
-    <b>Autor(es):</b> <a href="https://github.com/joaoPC10" target="_blank"> João Igor </a>,
-    <b>Autor(es):</b> <a href="https://github.com/RA-Salles" target="_blank"> Ryan Salles </a>,
+    <b>Autor(es):</b> <a href="https://github.com/johnaopedro" target="_blank"> João Pedro </a>, <a href="https://github.com/joaoPC10" target="_blank"> João Igor </a>, <a href="https://github.com/RA-Salles" target="_blank"> Ryan Salles </a>,
 </center>
 
 ## Conclusão
