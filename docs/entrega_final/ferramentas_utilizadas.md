@@ -62,13 +62,6 @@ A Tabela 2 a seguir apresenta as ferramentas organizadas por **propósito** e **
 
 O uso das ferramentas apresentadas neste documento contribuiu significativamente para a organização, comunicação, modelagem e prototipação do projeto de requisitos. A diversidade de ferramentas permitiu uma abordagem integrada e colaborativa, facilitando o desenvolvimento dos artefatos e a construção de um produto final coerente com as necessidades levantadas.
 
-## Histórico de Versão
-
-| Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
-| :----: | :--------: | :--------------: | :-------------------: | :----------------: |
-|  1.0   | 07/07/2025 | Desenvolvimento do conteúdo da página| [Amanda Cruz](https://github.com/mandicrz) | [João Pedro Costa](https://github.com/johnaopedro) |
-
-
 ## Referências
 
 > Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams](https://www.microsoft.com/pt-br/microsoft-teams). Acesso em: 07 de Jul. de 2025. 
@@ -98,7 +91,7 @@ O uso das ferramentas apresentadas neste documento contribuiu significativamente
 > Draw.io. Disponível em: [https://www.diagrams.net/](https://www.diagrams.net/). Acesso em: 07 de Jul. de 2025.
 
 > Krita. Disponível em: [https://krita.org/](https://krita.org/). Acesso em: 07 de Jul. de 2025.
->
+
 > Google Forms. Disponível em: [https://www.google.com/forms/about/](https://www.google.com/forms/about/). Acesso em: 07 de Jul. de 2025.
 
 > This Person Does Not Exist. Disponível em: [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/). Acesso em: 07 de Jul. de 2025.
@@ -106,4 +99,10 @@ O uso das ferramentas apresentadas neste documento contribuiu significativamente
 > Lucidchart. Disponível em: [https://www.lucidchart.com/](https://www.lucidchart.com/). Acesso em: 07 de Jul. de 2025.
 
 > Figma. Disponível em: [https://www.figma.com/](https://www.figma.com/). Acesso em: 07 de Jul. de 2025.
+
+## Histórico de Versão
+
+| Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
+| :----: | :--------: | :--------------: | :-------------------: | :----------------: |
+|  1.0   | 07/07/2025 | Desenvolvimento do conteúdo da página| [Amanda Cruz](https://github.com/mandicrz) | [João Pedro Costa](https://github.com/johnaopedro) |
 
