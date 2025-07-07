@@ -38,9 +38,9 @@ A Apresentação I corresponde à etapa 1, a Apresentação II, à etapa 2 e ass
 | Apresentação VI  | <iframe width="560" height="315" src="https://www.youtube.com/embed/li5ScdW9Q1I?si=g0VHZ_eU5cu5-Znu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan             |
 
 <center >
-    <b>Autor(es):</b> <a href="https://github.com/RA-Salles" target="_blank"> Ryan Salles </a>,
     <b>Autor(es):</b> <a href="https://github.com/johnaopedro" target="_blank"> João Pedro </a>,
-    <b>Autor(es):</b> <a href="https://github.com/joaoPC10" target="_blank"> João Igor </a>
+    <b>Autor(es):</b> <a href="https://github.com/joaoPC10" target="_blank"> João Igor </a>,
+    <b>Autor(es):</b> <a href="https://github.com/RA-Salles" target="_blank"> Ryan Salles </a>,
 </center>
 
 ## Conclusão
