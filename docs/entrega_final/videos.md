@@ -46,54 +46,6 @@ Essa seção contém a tabela de apresentações.
 
 O grupo foi capaz de realizar as apresentações com sucesso.
 
-
-<details markdown="1">
-<summary>Apresentação 5</summary>
-
-### Objetivo
-Apresentação do trabalho realizado para a quinta entrega.
-
-#### Participantes
-- Gabriel Flores
-- João Pedro Costa
-- João Igor Costa
-- Julia Paulino
-- Ryan Salles
-
-#### Gravação da reunião
-
-<figure markdown>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jegV9xbYb10?si=gJ6q8HfyhzPeGv1O" frameborder="0" allowfullscreen></iframe>
-<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
-</figure>
-
-</details>
-
-## Etapa 6
-
-<details markdown="1">
-<summary>Apresentação 6</summary>
-
-### Objetivo
-Apresentação do trabalho realizado para a sexta entrega.
-
-#### Participantes
-- Amanda Cruz
-- Gabriel Flores
-- João Pedro Costa
-- João Igor Costa
-- Julia Paulino
-- Ryan Salles
-
-#### Gravação da reunião
-
-<figure markdown>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/li5ScdW9Q1I?si=g0VHZ_eU5cu5-Znu" frameborder="0" allowfullscreen></iframe>
-<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
-</figure>
-
-</details>
-
 ## Histórico de versão
 | Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
 | :----: | :--------: | :--------------: | :-------------------: | :----------------: |
