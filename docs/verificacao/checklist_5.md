@@ -95,9 +95,9 @@ As Tabelas 2 e 3 apresentam checklists para os elementos de desenvolvimento do p
 
 ---
 
-## Referências
+## Bibliografia
 
-As referências das Tabelas 2 a 4 tiveram como referência as Figuras 1 a 4.
+As Figuras 1 a 9 apresentam a bibliografia utilizadas para a construção dessa lista de verificação.
 
 > SALES, André Barros de. Plano de Ensino, RE-012025, Turma 3. Disponível em: <https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf>. Acesso em: 01 junho 2025.
 

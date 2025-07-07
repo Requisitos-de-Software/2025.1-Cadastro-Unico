@@ -60,6 +60,7 @@ Para cada requisito elicitado, ele foi separado em um requisito funcional ou nã
 </center>
 
 Legenda:
+
 - RX : Requisito n° X, podendo ser um Requisito Funcional(RF) ou Não Funcional(RNF).
 - QSTX, ENTY, etc. : Um código de identificação para onde o requisito foi elicitado
 - MSCW : Uma categoria de priorização MoSCoW. 
@@ -201,7 +202,7 @@ A validação da priorização foi realizada presencialmente. As informações d
 | Duração | Cerca de 5 minutos                                       |
 
 <center>
-    <b>Autor(es)</b><a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
+    <b>Autor(es):</b><a href="https://github.com/RA-Salles" target="_blank"> Ryan Salles</a>
 </center>
 
 ---
@@ -231,6 +232,7 @@ A validação da priorização foi realizada presencialmente. As informações d
 ---
 
 ## Referências
+
 > FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 320-321. ISBN 0735679665.
 
 A figura 1 apresenta a referência WIEGERS e BEATTY (2013).
@@ -240,7 +242,7 @@ A figura 1 apresenta a referência WIEGERS e BEATTY (2013).
 </center>
 
 <div style="text-align: center;">
-    <img src="../../../assets/referencias/moscow/moscow_wiegers.png" alt="Three Level Scale 2">
+    <img src="../../../assets/referencias/moscow/moscow_wiegers.png" alt="MoSCoW">
 </div>
 
 <center>
@@ -256,3 +258,4 @@ A figura 1 apresenta a referência WIEGERS e BEATTY (2013).
 | 1.0     | 28/04/2025 | Criação da página da técnica MoSCoW                                                         | [Ryan Salles](https://github.com/RA-Salles)        | [João Pedro Costa](https://github.com/johnaopedro) |
 | 1.1     | 04/05/2025 | Adicionando links e corrigindo tabelas                                                      | [João Pedro Costa](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles)        |
 | 2.0     | 03/07/2025 | Refatoração do documento e conserto em cascata ocasionado pelo versionamento dos requisitos | [Ryan Salles](https://github.com/RA-Salles)        | [João Pedro Costa](https://github.com/johnaopedro) |
+| 2.1     | 07/07/2025 | Conserto de legenda e padronização das tabelas da validação                                 | [Ryan Salles](https://github.com/RA-Salles)        | [João Pedro Costa](https://github.com/johnaopedro) |

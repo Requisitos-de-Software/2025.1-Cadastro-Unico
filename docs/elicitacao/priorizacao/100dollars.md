@@ -154,7 +154,7 @@ A Figura 1 apresenta a especificação da técnica segundo WIEGERS e BEATTY (201
 </center>
 
 <div style="text-align: center;">
-    <img src="../../assets/referencias/cemdolares/image.png" alt="100dolaresWIEGERS">
+    <img src="../../../assets/referencias/cemdolares/image.png" alt="100dolaresWIEGERS">
 </div>
 
 
@@ -170,3 +170,4 @@ A Figura 1 apresenta a especificação da técnica segundo WIEGERS e BEATTY (201
 |  1.0   | 04/05/2025 | Criação do Documento                                                                                                              | [Amanda Cruz](https://github.com/mandicrz), [Gabriel Flores](https://github.com/Gabrielfcoelho)  | [João Pedro](https://github.com/johnaopedro) |
 |  2.0   | 25/06/2025 | Correção total do documento, refazendo a técnica                                                                                  | [Julia Gabriela](https://github.com/JuliaGabP)                                                   | [João Pedro](https://github.com/johnaopedro) |
 |  2.1   | 25/06/2026 | Atualização da rastreabilidade, exclusão de tabela de descrição, adição da coluna "Valor Ryan" e adicionando imagem de referência | [Ryan Salles](https://github.com/RA-Salles)                                                      | [João Pedro](https://github.com/johnaopedro) |
+|  2.2   | 07/07/2026 | Consertando imagem quebrada nas referências                                                                                       | [Ryan Salles](https://github.com/RA-Salles)                                                      | [João Pedro](https://github.com/johnaopedro) |
