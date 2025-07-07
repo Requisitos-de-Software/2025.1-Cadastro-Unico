@@ -457,7 +457,9 @@ Os vídeos abaixo referem-se aos cenários, descritos neste artefato, realizados
 
 </div>
 
-## Vídeo de Validação
+## Vídeos de Validação
+
+### Cenários João Pedro
 Uma reunião presencial foi realizada para fins de validação dos cenários elaborados. As informações sobre a reunião são apresentadas por meio das tabelas abaixo.
 
 <center>
@@ -479,10 +481,10 @@ Uma reunião presencial foi realizada para fins de validação dos cenários ela
     <b> Tabela 20:</b> Participantes da Reunião
 </center>
 
-| Nome                                         | Função                   |
-| :------------------------------------------: | :----------------------: |
-| José                                         | Usuário/ Project Owner   |
-| [João Pedro](https://github.com/johnaopedro) | Entrevistador            |
+| Nome                                           | Função                   |
+| :------------------------------------------:   | :----------------------: |
+| José                                           | Usuário/ Project Owner   |
+| [João Pedro](https://github.com/johnaopedro)   | Entrevistador            |
 | [Julia Gabriela](https://github.com/JuliaGabP) | Secretário/Desenvolvedor |
 <center>
     Autor(es): 
@@ -497,6 +499,51 @@ Abaixo está o vídeo de validação dos cenários, onde são discutidos os resu
 </div>
 
 > **Observação:** O vídeo de validação considerado para os cenários é apenas o do João Pedro.
+
+### Cenários Ryan Salles
+
+Uma reunião presencial foi realizada para fins de validação dos cenários elaborados. As informações sobre a reunião são apresentadas por meio das tabelas abaixo.
+
+<center>
+    <b> Tabela 19:</b> Informações da Reunião
+</center>
+
+| Campo   | Informação                                               |
+| :-----: | :------------------------------------------------------: |
+| Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
+| Data    | 04/07/2025                                               |
+| Horário | 19:00                                                    |
+| Duração | Cerca de 10 minutos                                      |
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">Ryan Salles</a>
+</center>
+<br>
+<center>
+    <b> Tabela 20:</b> Participantes da Reunião
+</center>
+
+| Nome                                           | Função                   |
+| :------------------------------------------:   | :----------------------: |
+| Pedro                                          | Usuário/ Project Owner   |
+| [Ryan Salles](https://github.com/RA-Salles)    | Entrevistador            |
+
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">Ryan Salles</a>
+</center>
+<br>
+
+Abaixo está o vídeo de validação dos cenários, onde são discutidos os resultados e insights obtidos durante a elaboração dos cenários.
+
+<div style="text-align: center;">
+
+<!--INSERIR O IFRAME AQUI-->
+
+</div>
+
+> **Observação:** O vídeo valida apenas os cenários 4, 5, 8 e 9.
+
 
 ## Bibliografia
 

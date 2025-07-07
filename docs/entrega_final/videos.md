@@ -21,7 +21,7 @@ Este documento reúne todos os vídeos gravados durante o projeto, organizados p
 
 ## Atas de Reunião
 
-- <!-- Adicione aqui os embeds dos vídeos de atas de reunião, se houver -->
+
 
 ## Etapa 2
 
