@@ -299,12 +299,12 @@ BOICHEVA, S. What is Prototype Design? [Guide 2024]. Disponível em: <https://ht
 </div>
 
 ## Histórico de versão
-| Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
-| :----: | :--------: | :--------------: | :-------------------: | :----------------: |
-|  1.0   | 12/06/2025 | Criando a pagina e adicionando teoria                                  | [Julia Gabriela](https://github.com/JuliaGabP) | [João Pedro](https://github.com/johnaopedro) |
-|  1.1   | 18/06/2025 | Adição dos protótipos 4 e 5                                            | [Gabriel Flores](https://github.com/Gabrielfcoelho)     | [João Igor](https://github.com/JoaoPC10) |
-|  1.2   | 19/06/2025 | Adição dos protótipos 6                                                | [Amanda Cruz](https://github.com/mandicrz)     | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
-|  1.3   | 20/06/2025 | Adição dos protótipos 7 e 8                                            | [João Pedro Costa](https://github.com/johnaopedro)     | [Ryan Salles](https://github.com/RA-Salles) |
-|  1.4   | 22/06/2025 | Correção de links | [João Pedro Costa](https://github.com/johnaopedro)     | [Ryan Salles](https://github.com/RA-Salles) |
-|  1.5   | 20/06/2025 | Adição dos protótipos 9 e 10, Inserção dos vídeos de validação         | [Ryan Salles](https://github.com/RA-Salles)    | [João Pedro Costa](https://github.com/johnaopedro) |
+| Versão |    Data    |    Descrição                                                           |         Autor                                       |       Revisor                                       |
+| :----: | :--------: | :--------------:                                                       | :-------------------:                               | :----------------:                                  |
+|  1.0   | 12/06/2025 | Criando a pagina e adicionando teoria                                  | [Julia Gabriela](https://github.com/JuliaGabP)      | [João Pedro](https://github.com/johnaopedro)        |
+|  1.1   | 18/06/2025 | Adição dos protótipos 4 e 5                                            | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [João Igor](https://github.com/JoaoPC10)            |
+|  1.2   | 19/06/2025 | Adição dos protótipos 6                                                | [Amanda Cruz](https://github.com/mandicrz)          | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
+|  1.3   | 20/06/2025 | Adição dos protótipos 7 e 8                                            | [João Pedro Costa](https://github.com/johnaopedro)  | [Ryan Salles](https://github.com/RA-Salles)         |
+|  1.4   | 22/06/2025 | Correção de links                                                      | [João Pedro Costa](https://github.com/johnaopedro)  | [Ryan Salles](https://github.com/RA-Salles)         |
+|  1.5   | 20/06/2025 | Adição dos protótipos 9 e 10, Inserção dos vídeos de validação         | [Ryan Salles](https://github.com/RA-Salles)         | [João Pedro Costa](https://github.com/johnaopedro)  |
 
