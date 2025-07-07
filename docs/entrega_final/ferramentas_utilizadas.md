@@ -62,6 +62,13 @@ A Tabela 2 a seguir apresenta as ferramentas organizadas por **propósito** e **
 
 O uso das ferramentas apresentadas neste documento contribuiu significativamente para a organização, comunicação, modelagem e prototipação do projeto de requisitos. A diversidade de ferramentas permitiu uma abordagem integrada e colaborativa, facilitando o desenvolvimento dos artefatos e a construção de um produto final coerente com as necessidades levantadas.
 
+## Histórico de Versão
+
+| Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
+| :----: | :--------: | :--------------: | :-------------------: | :----------------: |
+|  1.0   | 07/07/2025 | Desenvolvimento do conteúdo da página| [Amanda Cruz](https://github.com/mandicrz) | [João Pedro Costa](https://github.com/johnaopedro) |
+
+
 ## Referências
 
 > Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams](https://www.microsoft.com/pt-br/microsoft-teams). Acesso em: 07 de Jul. de 2025. 
