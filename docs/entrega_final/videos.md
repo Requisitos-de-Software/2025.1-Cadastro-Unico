@@ -21,7 +21,7 @@ Este documento reúne todos os vídeos gravados durante o projeto, organizados p
 
 ## Atas de Reunião
 
-
+## Etapa 1
 
 ## Etapa 2
 
@@ -275,6 +275,29 @@ Esta técnica foi executada presencialmente na UnB, com a equipe de desenvolvime
 
 </details>
 
+<details markdown="1">
+<summary>Apresentação 2</summary>
+
+### Objetivo
+Apresentação do trabalho realizado para a segunda entrega.
+
+#### Participantes
+- Amanda Cruz
+- Gabriel Flores
+- João Pedro Costa
+- João Igor Costa
+- Julia Paulino
+- Ryan Salles
+
+#### Gravação da reunião
+
+<figure markdown>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oZXc39__u7s?si=sTl2P9JZw3sAO6mC" frameborder="0" allowfullscreen></iframe>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
+
+</details>
+
 ## Etapa 3
 
 <details markdown="1">
@@ -400,11 +423,32 @@ Abaixo está o vídeo de validação dos casos de uso, onde são discutidos os r
 </details>
 
 </details>
+<details markdown="1">
+<summary>Apresentação 3</summary>
+
+### Objetivo
+Apresentação do trabalho realizado para a terceira entrega.
+
+#### Participantes
+- Amanda Cruz
+- Gabriel Flores
+- João Pedro Costa
+- João Igor Costa
+- Ryan Salles
+
+#### Gravação da reunião
+
+<figure markdown>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bn4xtHuKhI0?si=AhFdfGg3Znlwe7XA" frameborder="0" allowfullscreen></iframe>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
+
+</details>
 
 ## Etapa 4
 
 <details markdown="1">
-<summary><strong>NFR Framework</strong></summary>
+<summary>NFR Framework</summary>
 
 ### Explicação sobre o NFR Framework
 O NFR Framework (Non-Functional Requirements Framework) é um artefato utilizado para representar, analisar e decompor requisitos não funcionais do sistema, como desempenho, segurança, usabilidade e confiabilidade. Ele utiliza diagramas (SIGs) para mostrar as relações entre os requisitos e como decisões de design impactam a qualidade do sistema. No projeto, o NFR Framework foi essencial para garantir que atributos de qualidade fossem considerados desde o início do desenvolvimento.
@@ -420,7 +464,7 @@ Para mais detalhes, acesse o documento completo: [NFR Framework](../modelagem/ag
 </details>
 
 <details markdown="1">
-<summary><strong>Histórias de Usuário</strong></summary>
+<summary>Histórias de Usuário</summary>
 
 ### Explicação sobre as Histórias de Usuário
 As Histórias de Usuário descrevem funcionalidades do ponto de vista do usuário, utilizando uma linguagem simples e centrada nas necessidades reais. Elas servem como base para validação das funcionalidades e definição dos critérios de aceite. No projeto, as histórias de usuário foram validadas em reuniões com usuários, garantindo alinhamento com as necessidades do público-alvo.
@@ -470,7 +514,7 @@ Para mais detalhes, acesse o documento completo: [Histórias de Usuário](../mod
 </details>
 
 <details markdown="1">
-<summary><strong>Backlog do Produto</strong></summary>
+<summary>Backlog do Produto</summary>
 
 ### Explicação sobre o Backlog do Produto
 O Backlog do Produto é uma lista priorizada de funcionalidades, épicos e estórias que orientam o desenvolvimento incremental do sistema. Ele é organizado por temas, épicos, features e estórias, facilitando a gestão e a entrega contínua de valor. No projeto, o backlog foi validado em reunião com o Product Owner, garantindo que as prioridades estivessem alinhadas com as expectativas do cliente.
@@ -500,6 +544,27 @@ O vídeo da reunião de validação está disponível abaixo:
 Para mais detalhes, acesse o documento completo: [Backlog do Produto](../modelagem/agil/backlog.md)
 
 </details>
+
+<details markdown="1">
+<summary>Apresentação 4</summary>
+
+### Objetivo
+Apresentação do trabalho realizado para a quarta entrega.
+
+#### Participantes
+- Amanda Cruz
+- Gabriel Flores
+- João Pedro Costa
+- João Igor Costa
+- Julia Paulino
+- Ryan Salles
+
+#### Gravação da reunião
+
+<figure markdown>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aXGVPBBepVw?si=hD-LZ-t5Oyb-FpfY" frameborder="0" allowfullscreen></iframe>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
 
 </details>
 
@@ -557,6 +622,53 @@ Abaixo está o video de validação do protótipo:
 </figure>
 
   </details>
+
+</details>
+
+<details markdown="1">
+<summary>Apresentação 5</summary>
+
+### Objetivo
+Apresentação do trabalho realizado para a quinta entrega.
+
+#### Participantes
+- Gabriel Flores
+- João Pedro Costa
+- João Igor Costa
+- Julia Paulino
+- Ryan Salles
+
+#### Gravação da reunião
+
+<figure markdown>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jegV9xbYb10?si=gJ6q8HfyhzPeGv1O" frameborder="0" allowfullscreen></iframe>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
+
+</details>
+
+## Etapa 6
+
+<details markdown="1">
+<summary>Apresentação 6</summary>
+
+### Objetivo
+Apresentação do trabalho realizado para a sexta entrega.
+
+#### Participantes
+- Amanda Cruz
+- Gabriel Flores
+- João Pedro Costa
+- João Igor Costa
+- Julia Paulino
+- Ryan Salles
+
+#### Gravação da reunião
+
+<figure markdown>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/li5ScdW9Q1I?si=g0VHZ_eU5cu5-Znu" frameborder="0" allowfullscreen></iframe>
+<figcaption>Autor(es): <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>, <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a></figcaption>
+</figure>
 
 </details>
 
