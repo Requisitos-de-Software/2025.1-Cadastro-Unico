@@ -1,10 +1,10 @@
 # Protótipo — Upload de documentos e Notificação de pendências ou atualizações
 
 ## Função dos autores
-| Nome                                               | Função                                                            | 
-|----------------------                              |----------------------------------------------------------------   |
-|[Gabriel Flores](https://github.com/Gabrielfcoelho)  | Criação dos protótipos Upload de documentos e Notificação de pendências ou atualizações | 
-|[João Igor](https://github.com/JoaoPC10)         | Revisão geral| 
+| Nome                                               | Função                                                                                  | 
+|----------------------                              |----------------------------------------------------------------                         |
+|[Gabriel Flores](https://github.com/Gabrielfcoelho) | Criação dos protótipos Upload de documentos e Notificação de pendências ou atualizações | 
+|[João Igor](https://github.com/JoaoPC10)            | Revisão geral                                                                           | 
 <center>
     Autor(es): 
     <a href="https://github.com/Gabrielfcoelho" target="_blank">Gabriel Flores</a>
