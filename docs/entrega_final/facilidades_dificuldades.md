@@ -56,7 +56,7 @@ Outro obstáculo enfrentado ocorreu no início da execução do projeto, quando 
 # **João Pedro**
 ## *Facilidades*
 
-Durante a disciplina de Requisitos de Software, tive facilidade em algumas etapas do projeto. A introspecção, por exemplo, me permitiu refletir de forma crítica sobre as necessidades do sistema e foi relativamente fácil de fazer. A prototipação também foi uma experiência positiva, pois tornou mais tangível o que o grupo estava fazendo. Na modelagem e na modelagem ágil, especialmente ao elaborar histórias de usuário e backlog, senti que consegui contribuir bem ao projeto. Além disso, a análise de documentação foi uma técnica interessante, pois me ajudou a compreender melhor o sistema e seus requisitos. Trabalhar com casos de uso, cenários e léxico também foi tranquilo, pois essas técnicas tornaram o entendimento dos requisitos mais claro. Por fim, a pré-rastreabilidade, principalmente com o uso do rich picture, foi uma etapa que fluiu bem e facilitou a organização das ideias do grupo.
+Durante a disciplina de Requisitos de Software, tive facilidade apenas na comunicação com a equipe e na etapa inicial do projeto.
 
 ## *Dificuldades*
 
