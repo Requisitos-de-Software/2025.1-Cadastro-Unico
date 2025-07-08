@@ -11,8 +11,6 @@
 | [João Igor](https://github.com/johnaopedro)        | Elaboração do documento inicial                                                                  | 
 | [Ryan Salles](https://github.com/RA-Salles)        | Reestruturação do documento segundo padrão de entrega final                                      |  
 
-<!-- I f'd up. srry -->
-
 **Autor(es):** [João Pedro Costa](https://github.com/johnaopedro)
 
 ## Introdução
