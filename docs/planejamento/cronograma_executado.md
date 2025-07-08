@@ -154,6 +154,10 @@ Abaixo cronograma em formato de tabela para uma maior facilidade de visualizaç�
 Apesar de não estar no cronograma planejado inicial, a entrega final elaborada
 pelo grupo 4 apresentou as seguintes atividades. 
 
+<center>
+    <b>Tabela 7:</b> Cronograma executado para a Entrega Final 
+</center>
+
 | Atividade                                               | Período de desenvolvimento 	| Responsável               	                       | Revisão                  	| Revisor         	                                  |
 |-----------------------------------------------          |----------------------------	|---------------------------	                       |--------------------------	|-----------------	                                  |
 | Conserto de defeitos em documentos de entregas passadas | Ínicio: 23/06 Fim: 06/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 23/06 Fim: 06/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
@@ -169,6 +173,10 @@ pelo grupo 4 apresentou as seguintes atividades.
 | Documento de Vídeos                                     | Ínicio: 03/07 Fim: 05/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 06/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
 | Documento de Facilidades e Dificuldades                 | Ínicio: 03/07 Fim: 05/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 06/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
 | Apresentação da Entrega Final                           | Ínicio: 23/06 Fim: 06/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 07/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
+
+<center>
+    <b>Autor(a):</b> <a href="https://github.com/RA-Salles" target = "_blank">Ryan Salles</a></h6>
+</center>
 
 
 

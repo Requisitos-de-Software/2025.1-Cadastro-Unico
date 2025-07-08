@@ -49,6 +49,9 @@ nav:
     - Pós-Rastreabilidade: rastreabilidade/pos-rastreabilidade.md
   - Entrega Final:
     - Aplicativo Selecionado: entrega_final/aplicativo_selecionado.md
+    - Videos: entrega_final/videos.md
+    - Artefatos: entrega_final/artefatos.md
+    - Ferramentas Utilizadas: entrega_final/ferramentas_utilizadas.md
   - Verificação:
     - Entrega 1: verificacao/checklist_1.md
     - Entrega 2: verificacao/checklist_2.md
@@ -60,6 +63,7 @@ nav:
     - Prototipação: prototipo/prototipo.md
     - Prototipo - João Pedro: prototipo/prototipo_JP.md
     - Prototipo - Ryan Salles: prototipo/prototipo_RS.md
+    - Prototipo - Amanda Cruz: prototipo/prototipo_AC.md
   - Inspeções:
     - Grupo:
       - Entrega 1: inspecoes/grupo/inspecao_1.md

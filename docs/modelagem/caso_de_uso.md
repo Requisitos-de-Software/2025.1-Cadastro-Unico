@@ -414,9 +414,9 @@ As Tabelas, enumeradas de 2 a 16, definidas como UC01 a UC15 apresentam a especi
 
 ### Tabela de Rastreabilidade UC-CEN-RF
 
-A tabela de rastrabilidade é apresentada por meio da Tabela 3, que contêm informações de rastreabilidade do caso de uso apresentado e sua relação com o(s) respectivo(s) cenário(s) e requisito(s) funcional(ais).
+A tabela de rastrabilidade é apresentada por meio da Tabela 18, que contêm informações de rastreabilidade do caso de uso apresentado e sua relação com o(s) respectivo(s) cenário(s) e requisito(s) funcional(ais).
 
-<center> <b>Tabela 3: Tabela de Rastreabilidade</b> </center>
+<center> <b>Tabela 18: Tabela de Rastreabilidade</b> </center>
 
 | Caso de Uso (UC) | Cenário (CN) | Requisito Funcional (RF) |
 | :------------:   | :--------:   | :--------------------:   |
@@ -442,6 +442,48 @@ A tabela de rastrabilidade é apresentada por meio da Tabela 3, que contêm info
     <b>Autor(es):</b> <a href= "https://github.com/mandicrz" target="_blank"> Amanda Cruz </a>, <a href= "" target="_blank"> Julia Paulino </a>, , <a href= "https://github.com/Gabrielfcoelho" target="_blank"> Gabriel Flores </a>, <a href= "https://github.com/johnaopedro" target="_blank"> João Pedro </a>, <a href= "https://github.com/JoaoPC10" target="_blank"> João Igor </a>, <a href= "https://github.com/RA-Salles" target="_blank"> Ryan Salles </a> 
 </center>
 
+## Vídeo de Validação
+Uma reunião presencial foi realizada para fins de validação dos casos de uso elaborados. As informações sobre a reunião são apresentadas por meio das tabelas abaixo.
+
+<center>
+    <b> Tabela 19:</b> Informações da Reunião
+</center>
+
+| Campo   | Informação                                               |
+| :-----: | :------------------------------------------------------: |
+| Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
+| Data    | 05/06/2025                                               |
+| Horário | 10:30                                                    |
+| Duração | Cerca de 5 minutos                                      |
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
+</center>
+<br>
+<center>
+    <b> Tabela 20:</b> Participantes da Reunião
+</center>
+
+| Nome                                         | Função                   |
+| :------------------------------------------: | :----------------------: |
+| José                                         | Usuário/ Project Owner   |
+| [João Pedro](https://github.com/johnaopedro) | Entrevistador            |
+| [Julia Gabriela](https://github.com/JuliaGabP) | Secretário/Desenvolvedor |
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
+</center>
+<br>
+
+Abaixo está o vídeo de validação dos casos de uso, onde são discutidos os resultados e insights obtidos durante a elaboração dos casos de uso.
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jW598mhkr7I?si=cKDcX22bikxkf2f4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+> **Observação:** O vídeo de validação considerado para os casos de uso é apenas o do João Pedro Costa.
+
+
 ## Bibliografia
 
 > WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 144-145.
@@ -461,17 +503,18 @@ A tabela de rastrabilidade é apresentada por meio da Tabela 3, que contêm info
 
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |
-| 1.0 | 16/05/2025 | Criação da pagina e adição de casos de uso 10, 11, 12, 13 | [João Pedro Costa](https://github.com/johnaopedro) |  [Ryan Salles](https://github.com/RA-Salles) |
-| 1.1 | 16/05/2025 | Adicionando referencias sobre o tema e imagens| [João Pedro Costa](https://github.com/johnaopedro) |  [Ryan Salles](https://github.com/RA-Salles) |
+| 1.0 | 16/05/2025 | Criação da pagina e adição de casos de uso 10, 11, 12, 13 | [João Pedro](https://github.com/johnaopedro) |  [Ryan Salles](https://github.com/RA-Salles) |
+| 1.1 | 16/05/2025 | Adicionando referencias sobre o tema e imagens| [João Pedro](https://github.com/johnaopedro) |  [Ryan Salles](https://github.com/RA-Salles) |
 | 1.2 | 16/05/2025 | Adicionando 5 casos de uso | [Julia Gabriela](https://github.com/JuliaGabP) |  [Ryan Salles](https://github.com/RA-Salles) |
-| 1.3 | 17/05/2025 | Adicionando casos de uso 4 e 5 | [Ryan Salles](https://github.com/RA-Salles) | [João Pedro Costa](https://github.com/johnaopedro) |
-| 1.4 | 17/05/2025 | Adicionando casos de uso 8 e 9 | [Ryan Salles](https://github.com/RA-Salles) | [João Pedro Costa](https://github.com/johnaopedro) |
-| 1.5 | 17/05/2025 | Consertando tabela e casos de uso |[João Pedro Costa](https://github.com/johnaopedro) |[Ryan Salles](https://github.com/RA-Salles) | 
+| 1.3 | 17/05/2025 | Adicionando casos de uso 4 e 5 | [Ryan Salles](https://github.com/RA-Salles) | [João Pedro](https://github.com/johnaopedro) |
+| 1.4 | 17/05/2025 | Adicionando casos de uso 8 e 9 | [Ryan Salles](https://github.com/RA-Salles) | [João Pedro](https://github.com/johnaopedro) |
+| 1.5 | 17/05/2025 | Consertando tabela e casos de uso |[João Pedro](https://github.com/johnaopedro) |[Ryan Salles](https://github.com/RA-Salles) | 
 | 1.6 | 18/05/2025 | Adicionando casos de uso 14, padronizando o documento e corrigindo erros| [Gabriel Flores](https://github.com/Gabrielfcoelho) | [João Igor](https://github.com/JoaoPC10) |
-| 1.7 | 18/05/2025 | Melhorando seção Metodologia | [Ryan Salles](https://github.com/RA-Salles) | [João Pedro Costa](https://github.com/johnaopedro) |
-| 1.8 | 18/05/2025 | Adicionando caso de uso 15 | [Amanda Cruz](https://github.com/mandicrz) | [João Pedro Costa](https://github.com/johnaopedro) |
+| 1.7 | 18/05/2025 | Melhorando seção Metodologia | [Ryan Salles](https://github.com/RA-Salles) | [João Pedro](https://github.com/johnaopedro) |
+| 1.8 | 18/05/2025 | Adicionando caso de uso 15 | [Amanda Cruz](https://github.com/mandicrz) | [João Pedro](https://github.com/johnaopedro) |
 | 1.9 | 18/05/2025 | Adicionando caso de uso 14 | [João Igor](https://github.com/JoaoPC10) | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
 | 2.0 | 18/05/2025 | Adicionadas figuras e diagramas | [Gabriel Flores](https://github.com/Gabrielfcoelho), [Ryan Salles](https://github.com/RA-Salles) | [João Igor](https://github.com/JoaoPC10) |
 | 2.1 | 18/05/2025 | Adicionando caso de uso 16 e 17 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [João Igor](https://github.com/JoaoPC10) |
-| 2.2 | 20/05/2025 | Criando tabela de funções | [Julia Gabriela](https://github.com/JuliaGabP) |  [João Pedro Costa](https://github.com/johnaopedro) |
-| 2.3 | 22/06/2025 | Correção pelo metodo de inspeção de Fagan | [João Pedro](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles) |
+| 2.2 | 20/05/2025 | Criando tabela de funções | [Julia Gabriela](https://github.com/JuliaGabP) |  [João Pedro](https://github.com/johnaopedro) |
+| 2.2 | 22/06/2025 | Correção pelo metodo de inspeção de Fagan | [João Pedro](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles) |
+| 2.3 | 05/06/2025 | Adição do vídeo de validação dos casos de uso | [João Pedro](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles) |

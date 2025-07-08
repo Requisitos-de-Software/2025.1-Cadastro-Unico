@@ -145,8 +145,7 @@ A priorização foi realizada presencialmente. As informações da reunião pres
 
 
 <center>
-    <b>Autor(es):</b><a href="https://github.com/RA-Salles" target="_blank"> Ryan Salles</a>
-
+    <b>Autor(es): </b><a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
 </center>
 <br></br>
 <center>
