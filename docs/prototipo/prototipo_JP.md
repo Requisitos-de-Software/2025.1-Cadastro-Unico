@@ -60,7 +60,7 @@ Essas telas foram projetadas para garantir uma navegação intuitiva e facilitar
 
 **Autor:** [João Pedro Costa](https://github.com/johnaopedro)  
 **Funcionalidade:** Agendar Atendimento  
-**Rastreabilidade:** [RF30](../../elicitacao/requisitos_elicitados.md)  
+**Rastreabilidade:** [RF30](../elicitacao/requisitos_elicitados.md)  
 **Ferramentas:** Figma  
 **Tipo:** Alta Fidelidade
 ### Agendar Atendimento
@@ -72,7 +72,7 @@ Essas telas foram projetadas para garantir uma navegação intuitiva e facilitar
 
 **Autor:** [João Pedro Costa](https://github.com/johnaopedro)  
 **Funcionalidade:** Chat de Atendimento  
-**Rastreabilidade:** [RF34](../../elicitacao/requisitos_elicitados.md)  
+**Rastreabilidade:** [RF34](../elicitacao/requisitos_elicitados.md)  
 **Ferramentas:** Figma  
 **Tipo:** Alta Fidelidade 
 <div style="text-align: left;">
