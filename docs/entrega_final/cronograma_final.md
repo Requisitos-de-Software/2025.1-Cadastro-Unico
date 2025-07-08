@@ -330,7 +330,7 @@ Apesar de não planejada pelo documento de planejamento, a ENTREGA FINAL conta c
 | Documento de Verificação e Validação                    | Ínicio: 03/07 Fim: 05/07    | Gabriel                                              |  Ínicio: 06/07 Fim: 07/07  | Ryan                                                |
 | Documento de Vídeos                                     | Ínicio: 03/07 Fim: 05/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 06/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
 | Documento de Facilidades e Dificuldades                 | Ínicio: 03/07 Fim: 05/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 06/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
-| Apresentação da Entrega Final                           | Ínicio: 23/06 Fim: 06/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 07/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
+| Apresentação da Entrega Final                           | Ínicio: 07/07 Fim: 08/07    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan  |  Ínicio: 07/07 Fim: 07/07  | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
 
 <center>
     <b>Autor(a):</b> <a href="https://github.com/RA-Salles" target = "_blank">Ryan Salles</a></h6>
