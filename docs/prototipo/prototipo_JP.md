@@ -80,6 +80,9 @@ Essas telas foram projetadas para garantir uma navegação intuitiva e facilitar
 </div>
 
 ---
+
+**Link** para acesso [clique aqui](https://www.figma.com/proto/p8CFVlcj3mzTuKXBU5Tulk/Requisitos-de-Software?node-id=0-1&t=Jdgrrln41rMOllnk-1)
+
 ## Validação
 
 A validação dos protótipos foi realizada presencialmente. As informações da reunião presencial são apresentadas nas tabelas a seguir.
