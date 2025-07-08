@@ -89,59 +89,8 @@ O uso da inspeção Fagan permitiu uma análise detalhada dos artefatos, promove
 
 Essas práticas não apenas elevaram o padrão de qualidade do projeto, mas também fortaleceram a comunicação entre equipe técnica e usuários, promovendo transparência e confiança em todas as fases do desenvolvimento. Como resultado, o sistema entregue apresenta maior robustez, usabilidade e aderência aos requisitos estabelecidos, contribuindo para o sucesso do projeto e a satisfação
 
-## Bibliografia
 
-> BARHATE, B. H. Software Inspection Improves Quality of Software Product. *International Journal of Computer Science & Informatics*, Vol.- II, Issue-1, 2. 2013. [Link para o artigo](../../assets/referencias/inspecao_fagan/Software_Inspection_Improves_Quality_of_Software_P.pdf)
 
-> Sommerville, Ian. Engenharia de software. 08. ed. São Paulo: Pearson Addison Wesley, 2011
-
-> SIQUEIRA, Fábio Levy. Gerência e Qualidade de Software - Aula 06 - Técnica de revisão. 2018. Disponível em: < https://youtu.be/nA1BVDd9GUE >. Acesso em: 20/06/2025.
-
-> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. Gama: Universidade de Brasília (UnB). Slide de apresentação. Acesso em: 5 de julho 2025.  
-
-As figuras 1 a 3 apresentam imagens que representam a bibliografia utilizada para elaboração desse documento.
-
-### Figura 1: Sommerville sobre inspeções
-
-<div style="text-align: center;">
-    <img src="../../../assets/referencias/inspecao_fagan/sommerville_inspec.png" alt="Sommeville cap 8">
-</div>
-
-**Fonte:** Adaptado de SOMMERVILLE (2011).
-
-### Figura 2: Apresentação de Fábio L. Siqueira sobre técnicas de inspeção
-
-<div style="text-align: center;">
-    <img src="../../../assets/referencias/inspecao_fagan/siqueira_inspec.png" alt="Siqueira revisões">
-</div>
-
-**Fonte:** Adaptado de SIQUEIRA (2025).
-
-### Figura 3: Diagrama de Barhate sobre inspeções
-
-<div style="text-align: center;">
-    <img src="../../../assets/referencias/inspecao_fagan/barhate_inspec.png" alt="Barhate diagrama">
-</div>
-
-**Fonte:** Adaptado de BARHATE (2013).
-
-### Figura 4: Comprovação informal
-
-<div style="text-align: center;">
-    <img src="../../../assets/referencias/validacao/comprovacao_informal.png" alt="Comprovação informal">
-</div>
-
-**Fonte:** Adaptado de SERRANO.
-
-### Figura 5: Prototipação
-
-<div style="text-align: center;">
-    <img src="../../../assets/referencias/validacao/prototipacao.png" alt="Prototipação">
-</div>
-
-**Fonte:** Adaptado de SERRANO.
-
----
 
 ## Histórico de versão
 | Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
