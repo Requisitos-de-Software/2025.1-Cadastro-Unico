@@ -57,4 +57,5 @@ O grupo foi capaz de realizar as apresentações com sucesso.
 |  1.6   | 05/06/2025 | Adição dos vídeos de explicação dos Cenários | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
 |  1.7   | 01/07/2025 | Inclusão da validação presencial do protótipo de alta fidelidade, tabelas e vídeo de validação | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
 |  1.8   | 01/07/2025 | Adição dos videos de backlog e Historia de Usuário | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
+|  1.9   | 01/07/2025 | Adição dos videos das apresentações | [João Pedro Costa](https://github.com/johnaopedro)     | [Amanda Cruz](https://github.com/mandicrz) |
 |  2.0   | 07/07/2025 | Infeliz correção de inconsistências ocasionada pela péssima capacidade de leitura | [Ryan Salles](https://github.com/RA-Salles)  | [João Pedro Costa](https://github.com/johnaopedro) |
