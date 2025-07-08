@@ -208,6 +208,7 @@ A validação da priorização foi realizada presencialmente. As informações d
 ---
 
 <center>
+
     <b> Tabela 4:</b> Participantes da Entrevista
 
 </center>
@@ -224,7 +225,6 @@ A validação da priorização foi realizada presencialmente. As informações d
     <b>Autor(es): </b><a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
 </center>
 
----
 
 <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/1K4FEeSuBGc?si=97xbGpE2TW24kuwV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
