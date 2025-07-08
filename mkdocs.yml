@@ -92,7 +92,7 @@ nav:
       - Etapa 3: inspecoes/inspecao_de_fagan/etapa3.md
       - Etapa 4: inspecoes/inspecao_de_fagan/etapa4.md
       - Etapa 6: inspecoes/inspecao_de_fagan/etapa6.md
-  - Atas de Reunião:
+  - Atas:
     - Ata 1: atas/reuniao1.md
     - Ata 2: atas/reuniao2.md
     - Ata 3: atas/reuniao3.md
@@ -108,6 +108,7 @@ nav:
     - Apresentação IV: apresentacoes/apresentacao4.md
     - Apresentação V: apresentacoes/apresentacao5.md
     - Apresentação VI: apresentacoes/apresentacao6.md
+    - Apresentação VII: apresentacoes/apresentacao7.md
 theme:
   logo: assets/LogoCadUn.png
   name: material

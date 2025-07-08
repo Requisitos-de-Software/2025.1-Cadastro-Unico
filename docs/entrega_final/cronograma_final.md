@@ -268,6 +268,7 @@ Abaixo cronograma em formato de tabela para uma maior facilidade de visualizaç�
 | Correção após inspeção                        | Início: 23/06 Fim: 25/06    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan                     | Início: 23/06 Fim: 25/06   | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan            |
 <center>
  Autor(a): <a href="https://github.com/JuliaGabP" target = "_blank">Julia Gabriela</a></h6>
+</center>
 
 ### Etapa 6
 Essa seção contém o planejamento e execução relativos a etapa 6
@@ -276,16 +277,15 @@ Essa seção contém o planejamento e execução relativos a etapa 6
 
 <center>Tabela 06: Cronograma para as atividades da entrega 6</center>
 
-
-| Atividade                                     | Período de desenvolvimento 	| Responsável               	| Revisão                  	| Revisor         	|
-|-----------------------------------------------|----------------------------	|---------------------------	|--------------------------	|-----------------	|
-| Pós-rastreabilidade: Backward-form            | Início: 08/06 Fim: 23/06    | João Vítor, João Pedro, Julia, Ryan | Início: 23/06 Fim: 24/06 | João Igor        |
-| Pós-rastreabilidade: Forward-form             | Início: 08/06 Fim: 23/06    | Gabriel, Amanda, João Igor | Início: 23/06 Fim: 24/06   | João Vítor       |
-| Cronograma ocorrido                           | Início: 23/06 Fim: 24/06    | Amanda                     | Início: 23/06 Fim: 24/06   | João Pedro       |
-| Atas                                          | Início: 14/06 Fim: 05/07    | Ryan                       | Início: 05/07 Fim: 05/07   | João Igor        |
-| Gravações                                     | Início: 14/06 Fim: 05/07    | Ryan                       | Início: 05/07 Fim: 05/07   | Julia            |
-| Inspeção                                      | Início: 25/06 Fim: 25/06    | Amanda, Gabriel, João Pedro, João Igor, João Vítor, Julia, Ryan                     | Início: 25/06 Fim: 25/06   | Amanda, Gabriel, João Pedro, João Igor, João Vítor, Julia, Ryan            |
-| Correção final                     | Início: 26/06 Fim: 27/06    | Amanda, Gabriel, João Pedro, João Igor, João Vítor, Julia, Ryan                     | Início: 27/06 Fim: 27/06   | Amanda, Gabriel, João Pedro, João Igor, João Vítor, Julia, Ryan            |
+| Atividade                                     | Período de desenvolvimento   | Responsável                        | Revisão                   | Revisor          |
+|-----------------------------------------------|-----------------------------|------------------------------------|---------------------------|------------------|
+| Pós-rastreabilidade: Backward-form            | Início: 08/06 Fim: 23/06    | João Vítor, João Pedro, Julia, Ryan| Início: 23/06 Fim: 24/06  | João Igor        |
+| Pós-rastreabilidade: Forward-form             | Início: 08/06 Fim: 23/06    | Gabriel, Amanda, João Igor         | Início: 23/06 Fim: 24/06  | João Vítor       |
+| Cronograma ocorrido                           | Início: 23/06 Fim: 24/06    | Amanda                             | Início: 23/06 Fim: 24/06  | João Pedro       |
+| Atas                                          | Início: 14/06 Fim: 05/07    | Ryan                               | Início: 05/07 Fim: 05/07  | João Igor        |
+| Gravações                                     | Início: 14/06 Fim: 05/07    | Ryan                               | Início: 05/07 Fim: 05/07  | Julia            |
+| Inspeção                                      | Início: 25/06 Fim: 25/06    | Amanda, Gabriel, João Pedro, João Igor, João Vítor, Julia, Ryan | Início: 25/06 Fim: 25/06 | Amanda, Gabriel, João Pedro, João Igor, João Vítor, Julia, Ryan |
+| Correção final                                | Início: 26/06 Fim: 27/06    | Amanda, Gabriel, João Pedro, João Igor, João Vítor, Julia, Ryan | Início: 27/06 Fim: 27/06 | Amanda, Gabriel, João Pedro, João Igor, João Vítor, Julia, Ryan |
 <center>
  Autor(a): <a href="https://github.com/JuliaGabP" target = "_blank">Julia Gabriela</a></h6>
 </center>
@@ -293,19 +293,18 @@ Essa seção contém o planejamento e execução relativos a etapa 6
 #### Cronograma Executado
 <center>Tabela 06: Cronograma para as atividades da entrega 6</center>
 
-
-| Atividade                                     | Período de desenvolvimento 	| Responsável               	| Revisão                  	| Revisor         	|
-|-----------------------------------------------|----------------------------	|---------------------------	|--------------------------	|-----------------	|
-| Pós-rastreabilidade: Backward-form            | Início: 07/06 Fim: 08/06    | João Pedro, Julia, Ryan | Início: 07/06 Fim: 08/06 | Julia        |
-| Pós-rastreabilidade: Forward-form             | Início: 07/06 Fim: 08/06    | Gabriel, João Igor | Início: 07/06 Fim: 08/06   | João Pedro      |
-| Cronograma ocorrido                           | Início: 25/06 Fim: 25/06    | Julia                     | Início: 25/06 Fim: 25/06   | João Pedro       |
-| Atas                                          | Início: 08/06 Fim: 09/06    | Ryan                       | Início: 05/06 Fim: 05/06   | João Igor        |
-| Gravações                                     | Início: 08/06 Fim: 09/06    | Ryan                       | Início: 05/06 Fim: 05/06   | Julia            |
-| Inspeção                                      | Início: 08/06 Fim: 09/06    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan | Início: 25/06 Fim: 25/06   | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan            |
-| Correção final                     | Início: 25/06 Fim: 28/06    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan                     | Início: 29/06 Fim: 30/06   | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan            |
+| Atividade                                     | Período de desenvolvimento   | Responsável                        | Revisão                   | Revisor          |
+|-----------------------------------------------|-----------------------------|------------------------------------|---------------------------|------------------|
+| Pós-rastreabilidade: Backward-form            | Início: 07/06 Fim: 08/06    | João Pedro, Julia, Ryan            | Início: 07/06 Fim: 08/06  | Julia            |
+| Pós-rastreabilidade: Forward-form             | Início: 07/06 Fim: 08/06    | Gabriel, João Igor                 | Início: 07/06 Fim: 08/06  | João Pedro       |
+| Cronograma ocorrido                           | Início: 25/06 Fim: 25/06    | Julia                              | Início: 25/06 Fim: 25/06  | João Pedro       |
+| Atas                                          | Início: 08/06 Fim: 09/06    | Ryan                               | Início: 05/06 Fim: 05/06  | João Igor        |
+| Gravações                                     | Início: 08/06 Fim: 09/06    | Ryan                               | Início: 05/06 Fim: 05/06  | Julia            |
+| Inspeção                                      | Início: 08/06 Fim: 09/06    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan | Início: 25/06 Fim: 25/06 | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
+| Correção final                                | Início: 25/06 Fim: 28/06    | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan | Início: 29/06 Fim: 30/06 | Amanda, Gabriel, João Pedro, João Igor, Julia, Ryan |
 <center>
  Autor(a): <a href="https://github.com/JuliaGabP" target = "_blank">Julia Gabriela</a></h6>
-
+</center>
 ### ETAPA 7 - ENTREGA FINAL
 
 Apesar de não planejada pelo documento de planejamento, a ENTREGA FINAL conta com um cronograma executado.
@@ -352,3 +351,4 @@ de cumprir com as entregas planejadas.
 | Versão |    Data    |    Descrição da Alteração                       |         Autor                               |       Revisor                            |
 | :----: | :--------: | :---------------------------------------------: | :-------------------:                       | :---------------:                        |
 | 1.0    | 07/07/2025 | Elaboração inicial do documento                 | [Ryan Salles](https://github.com/RA-Salles) | [João Igor](https://github.com/JoaoPC10) |
+| 1.1 | 07/07/2025 | Correção de tabelas | [João Pedro](https://github.com/johnaopedro)  |  [Ryan Salles](https://github.com/RA-Salles)  |
