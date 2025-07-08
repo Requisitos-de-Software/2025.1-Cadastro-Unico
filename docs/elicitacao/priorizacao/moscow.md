@@ -209,6 +209,7 @@ A validação da priorização foi realizada presencialmente. As informações d
 
 <center>
     <b> Tabela 4:</b> Participantes da Entrevista
+
 </center>
 
 | Nome                                                 | Função                   |

@@ -7,7 +7,7 @@
 | [Amanda Cruz](https://github.com/mandicrz)          | Criação dos cenários 14 e 15                                                     | 
 | [Gabriel Flores](https://github.com/Gabrielfcoelho) | Criação dos cenários 16 e 17                                                     | 
 | [João Igor](https://github.com/JoaoPC10)            | Criação do cenário 16                                                            | 
-| [João Pedro Costa](https://github.com/johnaopedro)  | Revisão geral; Criação dos cenários 10 à 13; Correção pelo metodo de Fagan       | 
+| [João Pedro](https://github.com/johnaopedro)  | Revisão geral; Criação dos cenários 10 à 13; Correção pelo metodo de Fagan       | 
 | [Julia Gabriela](https://github.com/JuliaGabP)      | Adição do vídeo de explicação e referências; Criação dos cenários 1, 2, 3, 6 e 7 | 
 | [Ryan Salles](https://github.com/RA-Salles)         | Criação da documentação com introduções, criação dos cenários 4, 5, 8 e 9        | 
 
@@ -249,7 +249,7 @@ Essa seção contém os cenários elaborados, apresentados nas Tabelas 2 a 17, c
 
 <center>
     Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro</a>
 </center>
 
 
@@ -271,7 +271,7 @@ Essa seção contém os cenários elaborados, apresentados nas Tabelas 2 a 17, c
 
 <center>
     Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro</a>
 </center>
 
 
@@ -293,7 +293,7 @@ Essa seção contém os cenários elaborados, apresentados nas Tabelas 2 a 17, c
 
 <center>
     Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro</a>
 </center>
 
 
@@ -315,7 +315,7 @@ Essa seção contém os cenários elaborados, apresentados nas Tabelas 2 a 17, c
 
 <center>
     Autor(es): 
-    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro</a>
 </center>
 
 
@@ -447,8 +447,8 @@ Cada dupla na Tabela 18 apresenta qual requisito funcional não-implementado o c
     <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
 </center>
 
-## Vídeo
-O vídeo abaixo refere-se ao cenário, descrito neste artefato, realizada no **Microsoft Teams**:
+## Vídeos de Explicação
+Os vídeos abaixo referem-se aos cenários, descritos neste artefato, realizados no **Microsoft Teams**:
 
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DohE9Bf-ppg?si=w5koy8vx1bkrT6M8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -456,6 +456,94 @@ O vídeo abaixo refere-se ao cenário, descrito neste artefato, realizada no **M
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2XD85MKcj9k?si=P60ufthC229R1Yfn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
+
+## Vídeos de Validação
+
+### Cenários João Pedro
+Uma reunião presencial foi realizada para fins de validação dos cenários elaborados. As informações sobre a reunião são apresentadas por meio das tabelas abaixo.
+
+<center>
+    <b> Tabela 19:</b> Informações da Reunião
+</center>
+
+| Campo   | Informação                                               |
+| :-----: | :------------------------------------------------------: |
+| Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
+| Data    | 05/06/2025                                               |
+| Horário | 10:00                                                    |
+| Duração | Cerca de 5 minutos                                      |
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro</a>
+</center>
+<br>
+<center>
+    <b> Tabela 20:</b> Participantes da Reunião
+</center>
+
+| Nome                                           | Função                   |
+| :------------------------------------------:   | :----------------------: |
+| José                                           | Usuário/ Project Owner   |
+| [João Pedro](https://github.com/johnaopedro)   | Entrevistador            |
+| [Julia Gabriela](https://github.com/JuliaGabP) | Secretário/Desenvolvedor |
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro</a>
+</center>
+<br>
+
+Abaixo está o vídeo de validação dos cenários, onde são discutidos os resultados e insights obtidos durante a elaboração dos cenários.
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EBRgtd6eBUI?si=3pNWvTr7oMM7kGfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+> **Observação:** O vídeo de validação considerado para os cenários é apenas o do João Pedro.
+
+### Cenários Ryan Salles
+
+Uma reunião presencial foi realizada para fins de validação dos cenários elaborados. As informações sobre a reunião são apresentadas por meio das tabelas abaixo.
+
+<center>
+    <b> Tabela 19:</b> Informações da Reunião
+</center>
+
+| Campo   | Informação                                               |
+| :-----: | :------------------------------------------------------: |
+| Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
+| Data    | 04/07/2025                                               |
+| Horário | 19:00                                                    |
+| Duração | Cerca de 10 minutos                                      |
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">Ryan Salles</a>
+</center>
+<br>
+<center>
+    <b> Tabela 20:</b> Participantes da Reunião
+</center>
+
+| Nome                                           | Função                   |
+| :------------------------------------------:   | :----------------------: |
+| Pedro                                          | Usuário/ Project Owner   |
+| [Ryan Salles](https://github.com/RA-Salles)    | Entrevistador            |
+
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">Ryan Salles</a>
+</center>
+<br>
+
+Abaixo está o vídeo de validação dos cenários, onde são discutidos os resultados e insights obtidos durante a elaboração dos cenários.
+
+<div style="text-align: center;">
+
+<!--INSERIR O IFRAME AQUI-->
+
+</div>
+
+> **Observação:** O vídeo valida apenas os cenários 4, 5, 8 e 9.
+
 
 ## Bibliografia
 
@@ -481,7 +569,9 @@ O vídeo abaixo refere-se ao cenário, descrito neste artefato, realizada no **M
 |  2.0   | 18/05/2025 | Adição de 2 cenários e formatação        | [Amanda Cruz](https://github.com/mandicrz) | [Ryan Salles](https://github.com/RA-Salles) |
 |  2.1   | 18/05/2025 | Corrigindo conflitos e erros       | [Amanda Cruz](https://github.com/mandicrz) | [Ryan Salles](https://github.com/RA-Salles) |
 |  2.2   | 18/05/2025 | Adicionando 1 cenário novo      | [João Igor](https://github.com/JoaoPC10) | [Gabriel Flores](https://github.com/Gabrielfcoelho) |
-| 2.3    | 18/05/2025 | Correções mínimas | [Ryan Salles](https://github.com/RA-Salles)    | [João Pedro](https://github.com/johnaopedro) |
+|  2.3   | 18/05/2025 | Correções mínimas | [Ryan Salles](https://github.com/RA-Salles)    | [João Pedro](https://github.com/johnaopedro) |
 |  2.4   | 20/05/2025 | Criando tabela de funções | [Julia Gabriela](https://github.com/JuliaGabP) | [João Pedro](https://github.com/johnaopedro) |
 |  2.5   | 20/05/2025 | Adicionando 1 cenário novo      | [Gabriel Flores](https://github.com/Gabrielfcoelho) | [João Igor](https://github.com/JoaoPC10) |
-| 2.6 | 22/06/2025 | Correção pelo metodo de inspeção de Fagan | [João Pedro](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles) |
+|  2.6   | 22/06/2025 | Correção pelo metodo de inspeção de Fagan | [João Pedro](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles) |
+|  2.7   | 05/06/2025 | Adição do vídeo de validação dos cenários | [João Pedro](https://github.com/johnaopedro) | [Ryan Salles](https://github.com/RA-Salles) |
+
