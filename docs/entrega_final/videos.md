@@ -1,4 +1,4 @@
-# Vídeos do Projeto
+# Tabela de Apresentações
 
 ## Função dos autores
 <figure markdown>
