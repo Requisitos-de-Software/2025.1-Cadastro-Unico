@@ -512,7 +512,7 @@ Uma reunião presencial foi realizada para fins de validação dos cenários ela
 | :-----: | :------------------------------------------------------: |
 | Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
 | Data    | 04/07/2025                                               |
-| Horário | 19:00                                                    |
+| Horário | 19:30                                                    |
 | Duração | Cerca de 10 minutos                                      |
 <center>
     Autor(es): 
@@ -538,7 +538,9 @@ Abaixo está o vídeo de validação dos cenários, onde são discutidos os resu
 
 <div style="text-align: center;">
 
-<!--INSERIR O IFRAME AQUI-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C2ObwJ81lSs?si=EwgOg3WN7o0Ic78X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hEbEfc5-s00?si=iEuq7Awt4nIuGpVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 

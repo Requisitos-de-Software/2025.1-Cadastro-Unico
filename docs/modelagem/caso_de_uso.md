@@ -442,7 +442,7 @@ A tabela de rastrabilidade é apresentada por meio da Tabela 18, que contêm inf
     <b>Autor(es):</b> <a href= "https://github.com/mandicrz" target="_blank"> Amanda Cruz </a>, <a href= "" target="_blank"> Julia Paulino </a>, , <a href= "https://github.com/Gabrielfcoelho" target="_blank"> Gabriel Flores </a>, <a href= "https://github.com/johnaopedro" target="_blank"> João Pedro </a>, <a href= "https://github.com/JoaoPC10" target="_blank"> João Igor </a>, <a href= "https://github.com/RA-Salles" target="_blank"> Ryan Salles </a> 
 </center>
 
-## Vídeo de Validação
+## Vídeo de Validação - João Pedro
 Uma reunião presencial foi realizada para fins de validação dos casos de uso elaborados. As informações sobre a reunião são apresentadas por meio das tabelas abaixo.
 
 <center>
@@ -482,6 +482,49 @@ Abaixo está o vídeo de validação dos casos de uso, onde são discutidos os r
 </div>
 
 > **Observação:** O vídeo de validação considerado para os casos de uso é apenas o do João Pedro Costa.
+
+## Vídeo de Validação - Ryan Salles
+Uma reunião presencial foi realizada para fins de validação dos casos de uso elaborados. As informações sobre a reunião são apresentadas por meio das tabelas 21 e 22 abaixo.
+
+<center>
+    <b> Tabela 21:</b> Informações da Reunião
+</center>
+
+| Campo   | Informação                                               |
+| :-----: | :------------------------------------------------------: |
+| Local   | [UnB - FCTE](https://maps.app.goo.gl/f8bxb23JLZJpw7REA)  |
+| Data    | 04/07/2025                                               |
+| Horário | 19:30                                                    |
+| Duração | Cerca de 10 minutos                                       |
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>,
+    <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
+</center>
+<br>
+<center>
+    <b> Tabela 22:</b> Participantes da Reunião
+</center>
+
+| Nome                                         | Função                   |
+| :------------------------------------------: | :----------------------: |
+| Pedro                                        | Usuário/ Project Owner   |
+| [Ryan Salles](https://github.com/RA-Salles)  | Entrevistador            |
+
+<center>
+    Autor(es): 
+    <a href="https://github.com/johnaopedro" target="_blank">João Pedro Costa</a>,
+    <a href="https://github.com/RA-Salles" target="_blank">Ryan Salles</a>
+</center>
+<br>
+
+Abaixo estão os vídeos de validação dos casos de uso, onde são discutidos os resultados e insights obtidos durante a elaboração dos casos de uso. O segundo vídeo se refere ao consentimento.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C2ObwJ81lSs?si=EwgOg3WN7o0Ic78X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hEbEfc5-s00?si=iEuq7Awt4nIuGpVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> **Observação:** O vídeo de validação considerado para os casos de uso é apenas o do Ryan Salles.
 
 
 ## Bibliografia
