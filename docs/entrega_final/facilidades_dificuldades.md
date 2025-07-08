@@ -12,7 +12,7 @@
 |[Gabriel Flores](https://github.com/Gabrielfcoelho)|                                                    | 
 |[João Igor](https://github.com/JoaoPC10)|Criação do documento e adição das opiniões relativas à matéria | 
 |[João Pedro Costa](https://github.com/johnaopedro)| Adição das opiniões relativas à matéria             | 
-|[Julia Gabriela](https://github.com/JuliaGabP)|                                                         | 
+|[Julia Gabriela](https://github.com/JuliaGabP)| Adição das opiniões sobre a matéria                                      | 
 |[Ryan Salles](https://github.com/RA-Salles)| Adição de breve comentário e ausência de                   |
 
 <center>
@@ -66,7 +66,11 @@ Por fim, em relação a manter o planejamento e o ritmo das entregas foi o mais 
 
 # **Julia Gabriela**
 ## *Facilidades*
+
+Facilidade no uso do material disponibilizado pelo professor, que foi de grande auxílio.
 ## *Dificuldades*
+
+Dificuldade em entender como aplicar o conteúdo no trabalho, e um pouco na forma de registrar as referências das atividades. 
 
 # **Ryan Salles**
 ## *Facilidades*
