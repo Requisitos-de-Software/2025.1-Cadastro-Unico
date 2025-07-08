@@ -6,14 +6,14 @@
     <b>Tabela 1:</b> Função dos Autores
 </center>
 
-| Nome                 | Função                                                            | 
-|----------------------|----------------------------------------------------------------   |
-|[Amanda Cruz](https://github.com/mandicrz)| Adição das opiniões relativas à matéria       | 
-|[Gabriel Flores](https://github.com/Gabrielfcoelho)|                                      | 
-|[João Igor](https://github.com/JoaoPC10)|Criação do documento e adição das opiniões relativas à matéria| 
-|[João Pedro Costa](https://github.com/johnaopedro)| Adição das opiniões relativas à matéria            | 
-|[Julia Gabriela](https://github.com/JuliaGabP)|                                           | 
-|[Ryan Salles](https://github.com/RA-Salles)|                                              |
+| Nome                 | Função                                                                          | 
+|----------------------|----------------------------------------------------------------                 |
+|[Amanda Cruz](https://github.com/mandicrz)| Adição das opiniões relativas à matéria                     | 
+|[Gabriel Flores](https://github.com/Gabrielfcoelho)|                                                    | 
+|[João Igor](https://github.com/JoaoPC10)|Criação do documento e adição das opiniões relativas à matéria | 
+|[João Pedro Costa](https://github.com/johnaopedro)| Adição das opiniões relativas à matéria             | 
+|[Julia Gabriela](https://github.com/JuliaGabP)|                                                         | 
+|[Ryan Salles](https://github.com/RA-Salles)| Adição de breve comentário e ausência de                   |
 
 <center>
     Autor(es): 
@@ -70,7 +70,10 @@ Por fim, em relação a manter o planejamento e o ritmo das entregas foi o mais 
 
 # **Ryan Salles**
 ## *Facilidades*
+Tive inesperada facilidade de relacionamento com o grupo, considerando que não conhecia os membros antes da matéria.
+
 ## *Dificuldades*
+Sem comentários.
 
 ## Histórico de versão
 | Versão |    Data    |    Descrição     |         Autor         |       Revisor      |
